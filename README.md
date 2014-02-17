@@ -9,6 +9,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * https://www.favsync.com/common/publicTab/v274z25464-3312a1d2...
 * http://www.crunchbase.com/
 * https://www.angel.co/
+* http://sus.io - an app index with your stack.
 * http://www.betali.st/
 * http://www.romanianstartups.com/
 * http://www.startupli.st/

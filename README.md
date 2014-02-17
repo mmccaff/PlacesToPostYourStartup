@@ -63,6 +63,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.blogs.wsj.com/tech-europe/
 * http://www.rudebaguette.com/
 * http://www.venturevillage.eu/
-* http://www.en.webrazzi.com/about/
+* http://en.webrazzi.com/about/
 * http://www.sociableblog.com/contact-us/
 * http://www.producthunt.co/

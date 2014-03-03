@@ -66,3 +66,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://en.webrazzi.com/about/
 * http://www.sociableblog.com/contact-us/
 * http://www.producthunt.co/
+* http://breakpoint.io
+* http://sideracket.com
+* http://sideprojects.web3canvas.com

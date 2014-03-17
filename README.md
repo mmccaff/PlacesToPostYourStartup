@@ -69,3 +69,4 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://breakpoint.io
 * http://sideracket.com
 * http://sideprojects.web3canvas.com
+* http://firespotting.com/ - HN Clone that is mostly "Show HN" type posts

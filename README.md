@@ -73,4 +73,3 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * https://sproutr.co
 * http://livetoclose.com
 * http://pitchpigeon.com/
-* 

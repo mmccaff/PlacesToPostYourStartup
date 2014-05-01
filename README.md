@@ -12,6 +12,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.betali.st/
 * http://www.romanianstartups.com/
 * http://www.startupli.st/
+* http://www.justgonelive.com/
 * http://www.kickoffboost.com/
 * http://www.geekopedia.me/startupsubmit/
 * http://www.killerstartups.com/

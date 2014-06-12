@@ -75,3 +75,10 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * https://sproutr.co
 * http://livetoclose.com
 * http://pitchpigeon.com/
+* https://wecreatedit.com/
+* https://beta.techendo.com/
+* http://producthunt.com/
+* http://www.centercode.com/ -- Paid
+* http://www.usertesting.com/ -- Paid
+* http://startupbuffer.com
+* http://www.prefinery.com -- Paid

@@ -82,3 +82,4 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.usertesting.com/ -- Paid
 * http://startupbuffer.com
 * http://www.prefinery.com -- Paid
+* http://feedbackarmy.com/ -- Paid

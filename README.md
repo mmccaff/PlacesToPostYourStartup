@@ -87,3 +87,4 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * https://press.farm/ -- Paid. Find journalists to write about your startup.
 * http://techcrunch.com/2014/07/14/please-dont-spam-us/ -- TechCrunch editors email addresses.
 * http://challengepost.com
+* http://startuplister.com/  -- Paid,submits to sites for you

@@ -4,6 +4,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.reddit.com/r/startups
 * http://www.reddit.com/r/sideproject
 * http://www.reddit.com/r/shamelessplug
+* http://www.reddit.com/r/design_critiques
 * http://momb.socio-kybernetics.net/
 * http://headlinr.com/
 * https://www.favsync.com/common/publicTab/v274z25464-3312a1d2...

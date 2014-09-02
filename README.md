@@ -89,3 +89,5 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://techcrunch.com/2014/07/14/please-dont-spam-us/ -- TechCrunch editors email addresses.
 * http://challengepost.com
 * http://startuplister.com/  -- Paid. Manually submits to sites for you.
+* http://www.startupranking.com/
+* http://www.randomstartup.org/

@@ -91,3 +91,4 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://startuplister.com/  -- Paid. Manually submits to sites for you.
 * http://www.startupranking.com/
 * http://www.randomstartup.org/
+* http://www.coolstartupbro.com/

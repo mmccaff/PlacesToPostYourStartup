@@ -75,7 +75,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://reddit.com/r/entrepreneur
 * https://sproutr.co
 * http://livetoclose.com
-* http://pitchpigeon.com/
+* http://pitchpigeon.com/ -- Paid
 * https://wecreatedit.com/
 * https://beta.techendo.com/
 * http://producthunt.com/

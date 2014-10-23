@@ -74,7 +74,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://firespotting.com/ - HN Clone that is mostly "Show HN" type posts
 * http://reddit.com/r/entrepreneur
 * https://sproutr.co
-* http://pitchpigeon.com/
+* http://pitchpigeon.com/ -- Paid
 * https://wecreatedit.com/
 * https://beta.techendo.com/
 * http://www.centercode.com/ -- Paid

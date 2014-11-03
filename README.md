@@ -90,3 +90,4 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.startupranking.com/
 * http://www.randomstartup.org/
 * http://www.coolstartupbro.com/
+* http://earlyclaim.com/

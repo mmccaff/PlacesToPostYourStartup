@@ -32,7 +32,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.siliconallee.com/contact
 * http://www.f6s.com/
 * http://www.paggu.com/
-* http://www.aboutyourstartup.com/
 * http://www.eu-startups.com/directory/
 * http://www.go2web20.net/
 * http://www.101bestwebsites.com/

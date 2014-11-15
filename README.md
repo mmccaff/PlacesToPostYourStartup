@@ -22,7 +22,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.ratemystartup.com/
 * http://www.new-startups.com/
 * http://www.nextbigwhat.com/
-* http://www.leanstack.io/
+* http://www.stackshare.io/
 * http://www.launchingnext.com/
 * http://www.startupproject.org/
 * http://www.erlibird.com/

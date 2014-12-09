@@ -91,3 +91,4 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.coolstartupbro.com/
 * http://earlyclaim.com/
 * http://www.pressfriendly.com/findareporter/techcrunch
+* http://www.cubecamp.com

@@ -3,7 +3,9 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * https://news.ycombinator.com/news (Show HN)
 * http://www.reddit.com/r/startups
 * http://www.reddit.com/r/sideproject
-* http://thenextweb.com/market/
+* http://www.reddit.com/r/shamelessplug
+* http://www.reddit.com/r/design_critiques
+* http://www.reddit.com/r/AlphaAndBetaUsers
 * http://momb.socio-kybernetics.net/
 * http://headlinr.com/
 * https://www.favsync.com/common/publicTab/v274z25464-3312a1d2...
@@ -13,6 +15,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.betali.st/
 * http://www.romanianstartups.com/
 * http://www.startupli.st/
+* http://www.justgonelive.com/
 * http://www.kickoffboost.com/
 * http://www.geekopedia.me/startupsubmit/
 * http://www.killerstartups.com/
@@ -20,7 +23,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.ratemystartup.com/
 * http://www.new-startups.com/
 * http://www.nextbigwhat.com/
-* http://www.leanstack.io/
+* http://www.stackshare.io/
 * http://www.launchingnext.com/
 * http://www.startupproject.org/
 * http://www.erlibird.com/
@@ -30,7 +33,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.siliconallee.com/contact
 * http://www.f6s.com/
 * http://www.paggu.com/
-* http://www.aboutyourstartup.com/
 * http://www.eu-startups.com/directory/
 * http://www.go2web20.net/
 * http://www.101bestwebsites.com/
@@ -65,8 +67,29 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.venturevillage.eu/
 * http://en.webrazzi.com/about/
 * http://www.sociableblog.com/contact-us/
-* http://www.producthunt.co/
+* http://www.producthunt.com/
 * http://breakpoint.io
 * http://sideracket.com
 * http://sideprojects.web3canvas.com
 * http://firespotting.com/ - HN Clone that is mostly "Show HN" type posts
+* http://reddit.com/r/entrepreneur
+* https://sproutr.co
+* http://pitchpigeon.com/ -- Paid
+* https://wecreatedit.com/
+* https://beta.techendo.com/
+* http://www.centercode.com/ -- Paid
+* http://www.usertesting.com/ -- Paid
+* http://startupbuffer.com
+* http://www.prefinery.com -- Paid
+* http://feedbackarmy.com/ -- Paid
+* http://startuptabs.com/
+* https://press.farm/ -- Paid. Find journalists to write about your startup.
+* http://techcrunch.com/2014/07/14/please-dont-spam-us/ -- TechCrunch editors email addresses.
+* http://challengepost.com
+* http://startuplister.com/  -- Paid. Manually submits to sites for you.
+* http://www.startupranking.com/
+* http://www.randomstartup.org/
+* http://www.coolstartupbro.com/
+* http://earlyclaim.com/
+* http://www.pressfriendly.com/findareporter/techcrunch
+* http://www.cubecamp.com

@@ -93,3 +93,4 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://earlyclaim.com/
 * http://www.pressfriendly.com/findareporter/techcrunch
 * http://www.cubecamp.com
+* http://launchlister.com/ -- Amalgamates from free Product Hunt, Beta List & Startup List. Or Paid $29 for direct submission

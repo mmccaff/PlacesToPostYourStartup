@@ -95,3 +95,4 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.pressfriendly.com/findareporter/techcrunch
 * http://www.cubecamp.com
 * http://launchlister.com/ -- Amalgamates from free Product Hunt, Beta List & Startup List. Or Paid $29 for direct submission
+* http://submit.co/ - List of places to get press coverage for your startup

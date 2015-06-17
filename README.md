@@ -1,3 +1,5 @@
+# Places To Post Your Startup
+
 Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post ](https://news.ycombinator.com/item?id=6492109).
 
 * https://news.ycombinator.com/news (Show HN)
@@ -97,3 +99,5 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://launchlister.com/ -- Amalgamates from free Product Hunt, Beta List & Startup List. Or Paid $29 for direct submission
 * http://submit.co/ - List of places to get press coverage for your startup
 * http://reddit.com/r/imadethis
+
+Looking for a curated list of more [Awesome](https://github.com/sindresorhus/awesome) lists?

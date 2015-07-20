@@ -14,9 +14,9 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.crunchbase.com/
 * https://www.angel.co/
 * http://sus.io - list the stack you use & your app
-* http://www.betali.st/
+* http://betalist.com/
 * http://www.romanianstartups.com/
-* http://www.startupli.st/
+* http://startupli.st/
 * http://www.justgonelive.com/
 * http://www.kickoffboost.com/
 * http://www.geekopedia.me/startupsubmit/

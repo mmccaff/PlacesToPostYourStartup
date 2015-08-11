@@ -46,7 +46,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.startupwizz.com/
 * http://www.startuptunes.com/
 * http://www.venturebeatprofiles.com/
-* http://www.techhunger.com/
 * https://www.gust.com
 * http://www.cee-startups.com/
 * http://www.startupbook.co

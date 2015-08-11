@@ -49,7 +49,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.startupwizz.com/
 * http://www.startuptunes.com/
 * http://www.venturebeatprofiles.com/
-* http://www.techhunger.com/
 * https://www.gust.com
 * http://www.cee-startups.com/
 * http://www.startupbook.co
@@ -81,7 +80,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://reddit.com/r/entrepreneur
 * https://sproutr.co
 * http://pitchpigeon.com/ -- Paid
-* https://wecreatedit.com/
 * https://beta.techendo.com/
 * http://www.centercode.com/ -- Paid
 * http://www.usertesting.com/ -- Paid

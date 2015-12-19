@@ -72,6 +72,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://en.webrazzi.com/about/
 * http://www.sociableblog.com/contact-us/
 * http://www.producthunt.com/
+* https://www.openhunt.co/
 * http://www.traditt.com/ - producthunt clone for fintech and trading startups
 * http://breakpoint.io
 * http://sideracket.com

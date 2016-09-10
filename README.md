@@ -11,6 +11,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.reddit.com/r/shamelessplug
 * http://www.reddit.com/r/design_critiques
 * http://www.reddit.com/r/AlphaAndBetaUsers
+* http://hh.gd/waywo
 * http://momb.socio-kybernetics.net/
 * https://www.crozdesk.com/
 * http://www.crunchbase.com/

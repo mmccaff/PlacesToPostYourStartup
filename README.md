@@ -13,22 +13,17 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.reddit.com/r/AlphaAndBetaUsers
 * http://momb.socio-kybernetics.net/
 * https://www.crozdesk.com/
-* https://www.favsync.com/common/publicTab/v274z25464-3312a1d2...
 * http://www.crunchbase.com/
 * https://www.angel.co/
 * http://betalist.com/
 * http://www.romanianstartups.com/
-* http://startupli.st/
 * http://www.justgonelive.com/
-* http://www.kickoffboost.com/
 * http://www.geekopedia.me/startupsubmit/
 * http://www.killerstartups.com/
-* http://www.startupbird.com/
 * http://www.ratemystartup.com/
 * http://www.new-startups.com/
 * http://www.nextbigwhat.com/
 * http://www.stackshare.io/
-* http://www.launchingnext.com/
 * http://www.startupproject.org/
 * http://www.erlibird.com/
 * http://www.thestartuppitch.com/
@@ -38,20 +33,12 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.f6s.com/
 * http://www.paggu.com/
 * http://www.eu-startups.com/directory/
-* http://www.go2web20.net/
 * http://www.101bestwebsites.com/
 * http://www.vator.tv/
 * http://www.springwise.com/
 * http://www.techpluto.com
-* http://www.cee-startups.com/
-* http://www.appuseful.com/
-* http://www.startupwizz.com/
-* http://www.startuptunes.com/
-* http://www.venturebeatprofiles.com/
 * https://www.gust.com
-* http://www.cee-startups.com/
 * http://www.startupbook.co
-* http://www.launch.it/contact_form/1/0/contact
 * http://www.netted.net/contact-us/
 * http://www.minisprout.com/about/
 * http://www.makeuseof.com/contact-team/
@@ -71,14 +58,10 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://en.webrazzi.com/about/
 * http://www.sociableblog.com/contact-us/
 * http://www.producthunt.com/
-* https://www.openhunt.co/
-* http://www.traditt.com/ - producthunt clone for fintech and trading startups
 * http://breakpoint.io
-* http://sideracket.com
 * http://sideprojects.web3canvas.com
 * http://firespotting.com/ - HN Clone that is mostly "Show HN" type posts
 * http://reddit.com/r/entrepreneur
-* https://sproutr.co
 * http://pitchpigeon.com/ -- Paid
 * https://beta.techendo.com/
 * http://www.centercode.com/ -- Paid
@@ -94,7 +77,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.startupranking.com/
 * http://www.randomstartup.org/
 * http://www.coolstartupbro.com/
-* http://earlyclaim.com/
 * http://www.pressfriendly.com/findareporter/techcrunch
 * http://www.cubecamp.com
 * http://launchlister.com/ -- Amalgamates from free Product Hunt, Beta List & Startup List. Or Paid $29 for direct submission

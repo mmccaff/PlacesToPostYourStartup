@@ -1,8 +1,5 @@
 # Places To Post Your Startup
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-
 **Update September 2016** - Many of the links from my old list were no longer valid. Special thanks to TripHappy for letting me use their updated list. Originally from [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
 
 * AdHipster - https://adhipster.com/

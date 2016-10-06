@@ -4,8 +4,6 @@
 
 Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post ](https://news.ycombinator.com/item?id=6492109). Special thanks to TripHappy for letting me use their updated list from [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
 
-**Update September 2016** - Many of the links from my old list were no longer valid. Special thanks to TripHappy for letting me use their updated list. Originally from [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
-
 * AdHipster - https://adhipster.com/
 * All Startups - http://www.allstartups.info/Startups/Submit
 * All My Faves - http://www.allmyfaves.com/

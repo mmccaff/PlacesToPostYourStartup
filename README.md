@@ -132,6 +132,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * /r/Coupons - https://www.reddit.com/r/coupons/
 * Tech Map - http://thetechmap.com/
 * MosaicHub - http://www.mosaichub.com/
+* Your Story - https://profiles.yourstory.com/
 
 ## License
 

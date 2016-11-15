@@ -19,6 +19,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Crunch Base - http://www.crunchbase.com/app/register?redirect_to=/add-new
 * Digg - http://digg.com/submit
 * Geekopedia - http://geekopedia.me/startupsubmit
+* Getworm - https://getworm.com/submit-startup
 * BreakPoint - https://breakpoint.io/new/
 * FireSpotting - http://firespotting.com/submit
 * Geek Wire - http://geekwire.com/startup-list/

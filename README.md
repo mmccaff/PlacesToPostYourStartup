@@ -11,6 +11,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Angel List - https://angel.co/join
 * App Rater - https://apprater.net/add/
 * App Storm - http://formstack.com/forms/envato-appstorm_review
+* Betafy - https://www.betafy.co/easysignup/startup
 * Beterest - https://beterest.com/submit-startup/
 * Boing Boing - http://boingboing.net/sub/
 * Capterra - http://www.capterra.com/vendors/sign-up

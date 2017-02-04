@@ -35,11 +35,10 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * AppsNow - http://appsnow.us/submit-app-for-review/
 * AppsThunder - http://appsthunder.com/submit-your-app/
 * Beta Bound - http://www.betabound.com/announce/
-* Beta Page - https://betapage.co/submit
+* Beta Page - https://betapage.co/
 * BetaList - https://betalist.com/submit
 * Betafy - https://www.betafy.co/easysignup/startup
 * Beterest - https://beterest.com/submit-startup/
-* BizTechXperts - http://biztechxperts.com/?cb3
 * Boing Boing - http://boingboing.net/sub/
 * BreakPoint - https://breakpoint.io/new/
 * CSS Mania - http://www.cssmania.com/submit/
@@ -87,12 +86,10 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Next Big What - http://nextbigwhat.com/
 * Nibletz - http://www.nibletz.com/submit-startup
 * On the App - http://ontheapp.com/about/
-* Operation 6 Fig - http://www.operation6fig.com/submit-a-start-up
 * Paggu - http://www.paggu.com/
 * Pineapple - http://pineapple.io/resources/new
 * Postscapes - http://about.postscapes.com/tools
 * Product Hunt - http://www.producthunt.com/
-* Random Startup - http://www.randomstartup.org/
 * Rate My Startup - http://ratemystartup.com/submit-your-startup/
 * Really-aweso.me - http://www.really-aweso.me/submit-your-startup/
 * Robingood - http://tools.robingood.com/

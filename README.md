@@ -52,6 +52,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - http://www.crunchbase.com/app/register?redirect_to=/add-new
+* Designer News - https://www.designernews.co/
 * Digg - http://digg.com/submit
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor

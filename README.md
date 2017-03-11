@@ -47,10 +47,12 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
 * Cloudli.st - http://www.cloudli.st/apps/new
 * Cnet - https://upload.cnet.com/
+* Collaborizm - https://www.collaborizm.com
 * Cool Startup Bro - http://www.coolstartupbro.com/
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - http://www.crunchbase.com/app/register?redirect_to=/add-new
+* Designer News - https://www.designernews.co/
 * Digg - http://digg.com/submit
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor

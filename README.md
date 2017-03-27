@@ -106,6 +106,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Start-ups - http://www.start-ups.co/startup-interview-questionnaire/
 * Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
 * Startup Buffer - http://startupbuffer.com
+* Startup Collections - http://startupcollections.com/
 * Startup Dope - http://startupdope.com/submit-news/
 * Startup Inspire - https://www.startupinspire.com/submit
 * Startup Lift - http://www.startuplift.com/

@@ -51,7 +51,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Cool Startup Bro - http://www.coolstartupbro.com/
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
-* Crunch Base - http://www.crunchbase.com/app/register?redirect_to=/add-new
+* Crunch Base - https://www.crunchbase.com/app/register
 * Designer News - https://www.designernews.co/
 * Digg - http://digg.com/submit
 * Discova - http://www.discova.co/
@@ -73,7 +73,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Just Gone Live - http://www.justgonelive.com/add-listing
 * Killer Startups - http://killerstartups.com/submit-startup/
 * Lauching Next - http://www.launchingnext.com/submit/
-* Launch List - http://launchlist.co/submit-a-startup
 * Launch List - https://launchlister.com/submit-startup
 * Launch Sky - http://launchsky.com/pitch/compose
 * Launched - https://launched.io/SubmitStartup
@@ -110,7 +109,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Startup Dope - http://startupdope.com/submit-news/
 * Startup Inspire - https://www.startupinspire.com/submit
 * Startup Lift - http://www.startuplift.com/
-* Startup Ranking - http://www.startupranking.com/
 * Startup Register - http://startupregister.net/register-your-startup/
 * Startup Resources - https://startupresources.io
 * Startup Stash - http://startupstash.com/

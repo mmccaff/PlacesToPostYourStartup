@@ -116,7 +116,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Startup Stash - http://startupstash.com/
 * Startup Tabs - http://startuptabs.com/
 * Startup88 - http://startup88.com/
-* Startups - http://startups.fm/contact-us
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
 * Stumbleupon - http://www.stumbleupon.com/submit
 * Tech Crunch - https://techcrunch.com/

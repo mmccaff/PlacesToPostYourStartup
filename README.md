@@ -60,7 +60,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/
 * FireSpotting - http://firespotting.com/submit
-* G2 Crowd - https://www.g2crowd.com/
+* G2 Crowd - https://www.g2crowd.com/products/new
 * Geek Wire - http://geekwire.com/startup-list/
 * Geekopedia - http://geekopedia.me/startupsubmit
 * Get App - http://getapp.com/

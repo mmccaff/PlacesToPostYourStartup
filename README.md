@@ -91,6 +91,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Pineapple - http://pineapple.io/resources/new
 * Postscapes - http://about.postscapes.com/tools
 * Product Hunt - http://www.producthunt.com/
+* PriceBoxi - http://www.pricebox.io
 * Rate My Startup - http://ratemystartup.com/submit-your-startup/
 * Really-aweso.me - http://www.really-aweso.me/submit-your-startup/
 * Robingood - http://tools.robingood.com/

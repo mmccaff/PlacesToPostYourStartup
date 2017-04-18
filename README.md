@@ -68,7 +68,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * I Am Wire - http://www.iamwire.com/startups/user/register?uType=Entrepreneur
 * Idea Hunt - http://ideahunt.io/
 * Inc 42 - https://inc42.com/startup-submission/
-* Inspired Beta - https://inspiredbeta.com/submit-a-startup/
 * Just Gone Live - http://www.justgonelive.com/add-listing
 * Killer Startups - http://killerstartups.com/submit-startup/
 * Lauching Next - http://www.launchingnext.com/submit/

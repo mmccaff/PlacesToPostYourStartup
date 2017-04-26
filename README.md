@@ -87,6 +87,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Paggu - http://www.paggu.com/
 * Pineapple - http://pineapple.io/resources/new
 * Postscapes - http://about.postscapes.com/tools
+* PriceBox - http://www.pricebox.io
 * Product Hunt - http://www.producthunt.com/
 * Rate My Startup - http://ratemystartup.com/submit-your-startup/
 * Really-aweso.me - http://www.really-aweso.me/submit-your-startup/

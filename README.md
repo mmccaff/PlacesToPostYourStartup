@@ -45,7 +45,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Capterra - http://www.capterra.com/vendors/sign-up
 * CloudBook - http://www.cloudbook.net/directories/product-services/product-company-search.php
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
-* Cloudli.st - http://www.cloudli.st/apps/new
 * Cnet - https://upload.cnet.com/
 * Collaborizm - https://www.collaborizm.com
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form

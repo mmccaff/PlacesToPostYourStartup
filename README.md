@@ -89,6 +89,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Postscapes - http://about.postscapes.com/tools
 * PriceBox - http://www.pricebox.io
 * Product Hunt - http://www.producthunt.com/
+* PriceBoxi - http://www.pricebox.io
 * Rate My Startup - http://ratemystartup.com/submit-your-startup/
 * Really-aweso.me - http://www.really-aweso.me/submit-your-startup/
 * Robingood - http://tools.robingood.com/

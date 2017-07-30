@@ -58,7 +58,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Collaborizm - https://www.collaborizm.com
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
-* Crunch Base - https://www.crunchbase.com
+* Crunch Base - https://www.crunchbase.com/#/home/index
 * CSS Mania - http://www.cssmania.com/submit/
 * Designer News - https://www.designernews.co/
 * Digg - http://digg.com/submit

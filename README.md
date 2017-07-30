@@ -121,7 +121,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
-* Softpedia - http://www.softpedia.com/
 * Software Advice - https://softwareadvice-markets.questionpro.com/
 * Springwise - http://springwise.com/tipus/
 * Stack Share - http://stackshare.io/

@@ -58,7 +58,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Collaborizm - https://www.collaborizm.com
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
-* Crunch Base - https://www.crunchbase.com/app/register
+* Crunch Base - https://www.crunchbase.com
 * CSS Mania - http://www.cssmania.com/submit/
 * Designer News - https://www.designernews.co/
 * Digg - http://digg.com/submit
@@ -82,16 +82,15 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Index.co - https://index.co/startup
 * Just Gone Live - http://www.justgonelive.com/add-listing
 * Killer Startups - http://killerstartups.com/submit-startup/
+* Land-book - https://land-book.com/guidelines
 * Lauching Next - http://www.launchingnext.com/submit/
 * Launch List - https://launchlister.com/submit-startup
 * Launch Sky - http://launchsky.com/pitch/compose
 * Launched - https://launched.io/SubmitStartup
-* Makerbase - https://makerbase.co/
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
 * Mevvy - https://mevvy.com/submit-app/
 * Mobilzed - https://www.moblized.com/vendors/register
-* MosaicHub - http://www.mosaichub.com/
 * Museum of Modern Beta - http://momb.socio-kybernetics.net/about
 * Netted - https://www.netted.net/contact-us/
 * New-Startups - http://www.new-startups.com/submit/
@@ -147,7 +146,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * StompStart - https://stompstart.com/
 * Stumbleupon - http://www.stumbleupon.com/submit
 * Tabscape - https://www.tapscape.com/
-* Tech - http://www.techgreet.com/submit-your-tech-startup/
 * Tech Crunch - https://techcrunch.com/got-a-tip/
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Greet - http://www.techgreet.com/submit-your-tech-startup/

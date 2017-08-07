@@ -83,7 +83,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Just Gone Live - http://www.justgonelive.com/add-listing
 * Killer Startups - http://killerstartups.com/submit-startup/
 * Land-book - https://land-book.com/guidelines
-* Lauching Next - http://www.launchingnext.com/submit/
+* Launching Next - http://www.launchingnext.com/submit/
 * Launch List - https://launchlister.com/submit-startup
 * Launch Sky - http://launchsky.com/pitch/compose
 * Launched - https://launched.io/SubmitStartup

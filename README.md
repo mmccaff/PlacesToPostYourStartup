@@ -151,6 +151,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Tech Map - http://thetechmap.com/
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
 * Tech Tips - http://techattitude.com/contact/
+* The Changelog - https://github.com/thechangelog/ping
 * The iPhone Mom - https://www.theiphonemom.com/
 * The Startup Pitch - http://thestartuppitch.com/post-a-pitch/
 * Top Alternatives - https://topalternatives.com/

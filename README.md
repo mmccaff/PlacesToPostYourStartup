@@ -103,6 +103,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Start HQ - https://starthq.com/apps/submit
 * Start-ups - http://www.start-ups.co/startup-interview-questionnaire/
 * Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
+* Startup Benchmarks - https://www.startupbenchmarks.com/
 * Startup Buffer - http://startupbuffer.com
 * Startup Collections - http://startupcollections.com/
 * Startup Dope - http://startupdope.com/submit-news/

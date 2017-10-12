@@ -85,7 +85,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Land-book - https://land-book.com/guidelines
 * Launching Next - http://www.launchingnext.com/submit/
 * Launch List - https://launchlister.com/submit-startup
-* Launch Sky - http://launchsky.com/pitch/compose
 * Launched - https://launched.io/SubmitStartup
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
@@ -103,11 +102,9 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Pineapple - http://pineapple.io/resources/new
 * Postscapes - http://about.postscapes.com/tools
 * PreApps - http://www.preapps.com/
-* PriceBox - http://www.pricebox.io
 * Product Hunt - http://www.producthunt.com/
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX - https://www.publicityx.com/startups/new
-* RandomStartup - https://www.randomstartup.org/#/submit
 * Rate My Startup - http://ratemystartup.com/submit-your-startup/
 * Really-aweso.me - http://www.really-aweso.me/submit-your-startup/
 * Reikut - https://reikut.com/
@@ -142,7 +139,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Startup88 - http://startup88.com/
 * StartupBlink - http://www.startupblink.com/
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
-* StompStart - https://stompstart.com/
 * Stumbleupon - http://www.stumbleupon.com/submit
 * Tabscape - https://www.tapscape.com/
 * Tech Crunch - https://techcrunch.com/got-a-tip/
@@ -164,7 +160,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Venture Break - http://venturebreak.com/questions/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
 * Webmenu - http://webmenu.org/
-* WibbleWaggle - http://www.wibblewaggle.com/list-startup
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
 * Your Story - https://profiles.yourstory.com/

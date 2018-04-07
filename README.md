@@ -48,7 +48,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * BetaList - https://betalist.com/submit
 * Beterest - https://beterest.com/submit-startup/
 * Boing Boing - http://boingboing.net/sub/
-* BreakPoint - https://breakpoint.io/new/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
 * Cloud Surfing - http://www.cloudsurfing.com/
@@ -67,10 +66,8 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Erlibird - https://erlibird.com/beta-testing
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/
-* FireSpotting - http://firespotting.com/submit
 * G2 Crowd - https://www.g2crowd.com/products/new
 * Geek Wire - http://geekwire.com/startup-list/
-* Geekopedia - http://geekopedia.me/startupsubmit
 * Get App - http://getapp.com/
 * Getworm - https://getworm.com/submit-startup
 * Gust - https://www.gust.com
@@ -92,7 +89,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Mobilzed - https://www.moblized.com/vendors/register
 * Museum of Modern Beta - http://momb.socio-kybernetics.net/about
 * Netted - https://www.netted.net/contact-us/
-* New-Startups - http://www.new-startups.com/submit/
 * Next Big Product - http://nextbigproduct.net/product-submission/
 * Next Big What - http://nextbigwhat.com/
 * Nibletz - http://www.nibletz.com/submit-startup
@@ -122,7 +118,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Springwise - http://springwise.com/tipus/
 * Stack Share - http://stackshare.io/
 * Start HQ - https://starthq.com/apps/submit
-* Start-ups - http://www.start-ups.co/startup-interview-questionnaire/
 * Startup 88 - https://startup88.com/
 * Startup Base - https://startupbase.io/submit
 * Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
@@ -141,7 +136,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
 * Stumbleupon - http://www.stumbleupon.com/submit
 * Tabscape - https://www.tapscape.com/
-* Tech Crunch - https://techcrunch.com/got-a-tip/
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Greet - http://www.techgreet.com/submit-your-tech-startup/
 * Tech Map - http://thetechmap.com/

@@ -122,6 +122,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Startup 88 - https://startup88.com/
 * Startup Base - https://startupbase.io/submit
 * Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
+* Startup Benchmarks - https://www.startupbenchmarks.com/
 * Startup Buffer - http://startupbuffer.com
 * Startup Collections - http://startupcollections.com/
 * Startup Dope - http://startupdope.com/submit-news/

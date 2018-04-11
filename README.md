@@ -17,6 +17,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 * /r/Startups - http://reddit.com/r/startups
 * 101 Best Websites - http://www.101bestwebsites.com/
+* 10words - https://10words.io
 * Addictive Tips - http://www.addictivetips.com/
 * AdHipster - https://adhipster.com/
 * All My Faves - http://www.allmyfaves.com/

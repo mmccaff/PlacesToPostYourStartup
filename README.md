@@ -51,7 +51,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Boing Boing - http://boingboing.net/sub/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
-* Cloud Surfing - http://www.cloudsurfing.com/
 * CloudBook - http://www.cloudbook.net/directories/product-services/product-company-search.php
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
 * Cnet - https://upload.cnet.com/

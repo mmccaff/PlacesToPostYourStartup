@@ -88,7 +88,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Maqtoob - https://maqtoob.com/submit-a-tool
 * Mevvy - https://mevvy.com/submit-app/
 * Mobilzed - https://www.moblized.com/vendors/register
-* Museum of Modern Beta - http://momb.socio-kybernetics.net/about
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/
 * Next Big What - http://nextbigwhat.com/
@@ -118,6 +117,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Softlaunched - https://www.softlaunched.com/
 * Software Advice - https://softwareadvice-markets.questionpro.com/
 * Springwise - http://springwise.com/tipus/
+* SaaSHub - https://www.saashub.com/
 * Stack Share - http://stackshare.io/
 * Start HQ - https://starthq.com/apps/submit
 * Startup 88 - https://startup88.com/

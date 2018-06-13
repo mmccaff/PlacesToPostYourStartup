@@ -118,6 +118,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Software Advice - https://softwareadvice-markets.questionpro.com/
 * Springwise - http://springwise.com/tipus/
 * SaaSHub - https://www.saashub.com/
+* Saasified - https://saasified.co
 * Stack Share - http://stackshare.io/
 * Start HQ - https://starthq.com/apps/submit
 * Startup 88 - https://startup88.com/

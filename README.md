@@ -65,6 +65,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * Erlibird - https://erlibird.com/beta-testing
 * F6S - http://www.f6s.com/
+* Fastbmk - http://fastbmk.com/
 * Feed My App - https://feedmyapp.com/submit/
 * G2 Crowd - https://www.g2crowd.com/products/new
 * Geek Wire - http://geekwire.com/startup-list/

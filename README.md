@@ -156,7 +156,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Venture Bin - http://www.venturebin.com/submit-venture/
-* Venture Break - http://venturebreak.com/questions/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
 * Webmenu - http://webmenu.org/
 * Ycombinator - https://news.ycombinator.com/

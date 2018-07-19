@@ -63,6 +63,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Digg - http://digg.com/submit
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
+* Early-stage News - https://earlystagenews.com/
 * Erlibird - https://erlibird.com/beta-testing
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/

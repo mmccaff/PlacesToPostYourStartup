@@ -63,6 +63,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Digg - http://digg.com/submit
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
+* Early-stage News - https://earlystagenews.com/
 * Erlibird - https://erlibird.com/beta-testing
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/
@@ -155,7 +156,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Venture Bin - http://www.venturebin.com/submit-venture/
-* Venture Break - http://venturebreak.com/questions/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
 * Webmenu - http://webmenu.org/
 * Ycombinator - https://news.ycombinator.com/

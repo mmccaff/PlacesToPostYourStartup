@@ -122,6 +122,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Saasified - https://saasified.co
 * Stack Share - http://stackshare.io/
 * Start HQ - https://starthq.com/apps/submit
+* Starter Story - https://starterstory.com/
 * Startup 88 - https://startup88.com/
 * Startup Base - https://startupbase.io/submit
 * Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/

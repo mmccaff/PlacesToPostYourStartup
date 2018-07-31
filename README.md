@@ -139,7 +139,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Startup88 - http://startup88.com/
 * StartupBlink - http://www.startupblink.com/
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
-* Stumbleupon - http://www.stumbleupon.com/submit
 * Tabscape - https://www.tapscape.com/
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Greet - http://www.techgreet.com/submit-your-tech-startup/

@@ -104,7 +104,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * PublicityX - https://www.publicityx.com/startups/new
 * Rate My Startup - http://ratemystartup.com/submit-your-startup/
 * Really-aweso.me - http://www.really-aweso.me/submit-your-startup/
-* Reikut - https://reikut.com/
 * Rev 2 - http://www.rev2.org/
 * Robingood - http://tools.robingood.com/
 * Show HN - https://news.ycombinator.com/showhn.html

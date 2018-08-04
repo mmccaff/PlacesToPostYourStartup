@@ -96,7 +96,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * On the App - http://ontheapp.com/about/
 * Paggu - http://www.paggu.com/submit-your-startup/
 * pFind - http://www.pfind.com/submit
-* Pineapple - http://pineapple.io/resources/new
 * Postscapes - http://about.postscapes.com/tools
 * PreApps - http://www.preapps.com/
 * Product Hunt - http://www.producthunt.com/

@@ -85,6 +85,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Launching Next - http://www.launchingnext.com/submit/
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup
+* Maker Updates - https://www.makerupdates.com/
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
 * Mevvy - https://mevvy.com/submit-app/

@@ -157,6 +157,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Venture Bin - http://www.venturebin.com/submit-venture/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
 * Webmenu - http://webmenu.org/
+* Wyatt Tech Courses https://WyattTechCourses.com
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
 * Your Story - https://profiles.yourstory.com/

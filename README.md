@@ -103,14 +103,12 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX - https://www.publicityx.com/startups/new
 * Rate My Startup - http://ratemystartup.com/submit-your-startup/
-* Really-aweso.me - http://www.really-aweso.me/submit-your-startup/
 * Rev 2 - http://www.rev2.org/
 * Robingood - http://tools.robingood.com/
 * Show HN - https://news.ycombinator.com/showhn.html
 * Side Projectors - https://www.sideprojectors.com
 * Side Projects - http://sideprojects.web3canvas.com
 * Signup First - http://signupfirst.com/
-* SimilarSites - http://www.similarsites.com/
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
@@ -141,7 +139,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape - https://www.tapscape.com/
 * Tech Faster - http://techfaster.com/submit-your-company/
-* Tech Greet - http://www.techgreet.com/submit-your-tech-startup/
 * Tech Map - http://thetechmap.com/
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
 * Tech Tips - http://techattitude.com/contact/

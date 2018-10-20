@@ -1,8 +1,9 @@
 [![Build Status](https://travis-ci.org/mmccaff/PlacesToPostYourStartup.svg?branch=master)](https://travis-ci.org/mmccaff/PlacesToPostYourStartup) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Places To Post Your Startup
+##### The [mmccaff/PlacesToPostYourStartup repository on GitHub](https://github.com/mmccaff/PlacesToPostYourStartup) is automatically mirrored to [PlacesToPostYourStartup.com](https://www.placestopostyourstartup.com)
 
-Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post ](https://news.ycombinator.com/item?id=6492109). Special thanks to TripHappy for letting me use their updated list from [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
+Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post](https://news.ycombinator.com/item?id=6492109). Special thanks to TripHappy for letting me use their updated list from [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
 
 * /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 * /r/Coupons - https://www.reddit.com/r/coupons/

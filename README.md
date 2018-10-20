@@ -19,7 +19,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * /r/Startups - http://reddit.com/r/startups
 * 101 Best Websites - http://www.101bestwebsites.com/
 * 10words - https://10words.io
-* AdHipster - https://adhipster.com/
 * All My Faves - http://www.allmyfaves.com/
 * All Startups - http://www.allstartups.info/Startups/Submit
 * All Top Startups - http://alltopstartups.com/submit-startup/

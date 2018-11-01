@@ -7,7 +7,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 
 Click a link to jump to the appropriate section. Both sections are organized alphabetically.
 
-[Sub-Reddits](#Reddit) | [Websites](#Websites) | [License](#license)
+[Sub-Reddits](#reddit) | [Websites](#websites) | [License](#license)
 
 # Reddit
 * /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/

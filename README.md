@@ -5,8 +5,9 @@
 
 Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post](https://news.ycombinator.com/item?id=6492109). Special thanks to TripHappy for letting me use their updated list from [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
 
-Click a link to jump to the appropriate section.
-[SubReddits](#Reddit) [Websites](#Websites)
+Click a link to jump to the appropriate section. Both sections are organized alphabetically.
+
+[Sub-Reddits](#Reddit) | [Websites](#Websites)
 
 # Reddit
 * /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/

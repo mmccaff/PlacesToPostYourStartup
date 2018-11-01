@@ -5,6 +5,10 @@
 
 Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post](https://news.ycombinator.com/item?id=6492109). Special thanks to TripHappy for letting me use their updated list from [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
 
+Click a link to jump to the appropriate section.
+[SubReddits](#Reddit) [Websites](#Websites)
+
+# Reddit
 * /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 * /r/Coupons - https://www.reddit.com/r/coupons/
 * /r/DesignCritques - https://www.reddit.com/r/design_critiques/
@@ -17,6 +21,8 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * /r/SideProject - http://reddit.com/r/sideproject
 * /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 * /r/Startups - http://reddit.com/r/startups
+
+# Websites
 * 101 Best Websites - http://www.101bestwebsites.com/
 * 10words - https://10words.io
 * All My Faves - http://www.allmyfaves.com/

@@ -109,7 +109,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Product Hunt - http://www.producthunt.com/
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX - https://www.publicityx.com/startups/new
-* Rate My Startup - http://ratemystartup.com/submit-your-startup/
 * Rev 2 - http://www.rev2.org/
 * Robingood - http://tools.robingood.com/
 * Show HN - https://news.ycombinator.com/showhn.html
@@ -160,7 +159,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Venture Beat - http://venturebeat.com/news-tips/
 * Venture Bin - http://www.venturebin.com/submit-venture/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
-* Webmenu - http://webmenu.org/
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
 * Your Story - https://profiles.yourstory.com/

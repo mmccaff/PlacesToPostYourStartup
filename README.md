@@ -26,7 +26,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 [Back to Top](#places-to-post-your-startup)
 
 # Websites
-* 101 Best Websites - http://www.101bestwebsites.com/
 * 10words - https://10words.io
 * All My Faves - http://www.allmyfaves.com/
 * All Startups - http://www.allstartups.info/Startups/Submit
@@ -110,7 +109,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Product Hunt - http://www.producthunt.com/
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX - https://www.publicityx.com/startups/new
-* Rate My Startup - http://ratemystartup.com/submit-your-startup/
 * Rev 2 - http://www.rev2.org/
 * Robingood - http://tools.robingood.com/
 * Show HN - https://news.ycombinator.com/showhn.html
@@ -149,7 +147,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Map - http://thetechmap.com/
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
-* Tech Tips - http://techattitude.com/contact/
 * The Changelog - https://github.com/thechangelog/ping
 * The iPhone Mom - https://www.theiphonemom.com/
 * The Startup Pitch - http://thestartuppitch.com/post-a-pitch/
@@ -161,7 +158,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Venture Beat - http://venturebeat.com/news-tips/
 * Venture Bin - http://www.venturebin.com/submit-venture/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
-* Webmenu - http://webmenu.org/
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
 * Your Story - https://profiles.yourstory.com/

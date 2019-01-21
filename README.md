@@ -147,7 +147,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Map - http://thetechmap.com/
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
-* Tech Tips - http://techattitude.com/contact/
 * The Changelog - https://github.com/thechangelog/ping
 * The iPhone Mom - https://www.theiphonemom.com/
 * The Startup Pitch - http://thestartuppitch.com/post-a-pitch/

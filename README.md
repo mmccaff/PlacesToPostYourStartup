@@ -156,7 +156,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Vator - http://www.vator.tv/
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/
-* Venture Bin - http://www.venturebin.com/submit-venture/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/

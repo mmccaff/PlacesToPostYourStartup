@@ -112,6 +112,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Rev 2 - http://www.rev2.org/
 * Robingood - http://tools.robingood.com/
 * Show HN - https://news.ycombinator.com/showhn.html
+* SideProjects - https://sideprojects.net
 * Side Projectors - https://www.sideprojectors.com
 * Side Projects - http://sideprojects.web3canvas.com
 * Signup First - http://signupfirst.com/

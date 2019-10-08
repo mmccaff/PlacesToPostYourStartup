@@ -31,7 +31,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All Startups - http://www.allstartups.info/Startups/Submit
 * All Top Startups - http://alltopstartups.com/submit-startup/
 * Alternative To - http://alternativeto.net/
-* Angel List - https://angel.co/join
 * App 400 - http://apps400.com/
 * App Advice - http://appadvice.com/page/about-us
 * App Appeal - http://www.appappeal.com/contact/suggest
@@ -58,7 +57,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Boing Boing - http://boingboing.net/sub/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
-* CloudBook - http://www.cloudbook.net/directories/product-services/product-company-search.php
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
 * Cnet - https://upload.cnet.com/
 * Collaborizm - https://www.collaborizm.com
@@ -70,7 +68,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Digg - http://digg.com/submit
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
-* Early-stage News - https://earlystagenews.com/
 * Erlibird - https://erlibird.com/beta-testing
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/
@@ -78,7 +75,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Geek Wire - http://geekwire.com/startup-list/
 * Get App - http://getapp.com/
 * Getworm - https://getworm.com/submit-startup
-* GitHustle - http://www.githustle.com
 * Gust - https://www.gust.com
 * Hackerstreet - https://in.thehackerstreet.com/
 * Haro - https://www.helpareporter.com/sources/
@@ -86,13 +82,11 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Idea Hunt - http://ideahunt.io/
 * Inc 42 - https://inc42.com/startup-submission/
 * Index.co - https://index.co/startup
-* Just Gone Live - http://www.justgonelive.com/add-listing
 * Killer Startups - http://killerstartups.com/submit-startup/
 * Land-book - https://land-book.com/guidelines
 * Launching Next - http://www.launchingnext.com/submit/
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup
-* Maker Updates - https://www.makerupdates.com/
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
 * Mevvy - https://mevvy.com/submit-app/
@@ -115,11 +109,9 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * SideProjects - https://sideprojects.net
 * Side Projectors - https://www.sideprojectors.com
 * Side Projects - http://sideprojects.web3canvas.com
-* Signup First - http://signupfirst.com/
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
-* Softlaunched - https://www.softlaunched.com/
 * Software Advice - https://softwareadvice-markets.questionpro.com/
 * Springwise - http://springwise.com/tipus/
 * SaaSHub - https://www.saashub.com/
@@ -153,14 +145,12 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * The Startup Pitch - http://thestartuppitch.com/post-a-pitch/
 * Top Alternatives - https://topalternatives.com/
 * Top Similar Sites - http://www.topsimilarsites.com/add.aspx
-* Trust Radius - https://www.trustradius.com/
 * Vator - http://www.vator.tv/
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
-* Your Story - https://profiles.yourstory.com/
 
 [Back to Top](#places-to-post-your-startup)
 

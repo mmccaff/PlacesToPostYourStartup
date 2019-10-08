@@ -35,7 +35,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * App Advice - http://appadvice.com/page/about-us
 * App Appeal - http://www.appappeal.com/contact/suggest
 * App Rater - https://apprater.net/add/
-* App Storm - http://formstack.com/forms/envato-appstorm_review
 * Appcrawlr - http://appcrawlr.com/
 * Appoid - http://appiod.com/submit-app-for-review/
 * appPicker - http://www.apppicker.com/

@@ -93,7 +93,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/
 * Next Big What - http://nextbigwhat.com/
-* Nibletz - http://www.nibletz.com/submit-startup
 * On the App - http://ontheapp.com/about/
 * Paggu - http://www.paggu.com/submit-your-startup/
 * pFind - http://www.pfind.com/submit

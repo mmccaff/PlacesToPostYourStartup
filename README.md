@@ -143,6 +143,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * The Startup Pitch - http://thestartuppitch.com/post-a-pitch/
 * Top Alternatives - https://topalternatives.com/
 * Top Similar Sites - http://www.topsimilarsites.com/add.aspx
+* UserCV Blogging Community - https://usercv.com/blogs
 * Vator - http://www.vator.tv/
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/

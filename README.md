@@ -59,6 +59,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
 * Cnet - https://upload.cnet.com/
 * Collaborizm - https://www.collaborizm.com
+* Codedelay - https://codedelay.com
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index

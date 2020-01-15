@@ -12,7 +12,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 # Reddit
 * /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 * /r/Coupons - https://www.reddit.com/r/coupons/
-* /r/DesignCritques - https://www.reddit.com/r/design_critiques/
+* /r/Design_Critiques - https://www.reddit.com/r/design_critiques/
 * /r/Entrepreneur - http://reddit.com/r/entrepreneur
 * /r/IMadeThis - http://reddit.com/r/imadethis
 * /r/IndieBiz - https://www.reddit.com/r/indiebiz/

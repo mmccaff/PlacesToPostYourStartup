@@ -58,6 +58,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Capterra - http://www.capterra.com/vendors/sign-up
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
 * Cnet - https://upload.cnet.com/
+* CodeCanyons - https://codecanyons.net
 * Collaborizm - https://www.collaborizm.com
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup

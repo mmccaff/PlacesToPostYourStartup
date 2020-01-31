@@ -88,7 +88,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Launched - https://launched.io/SubmitStartup
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
-* Mevvy - https://mevvy.com/submit-app/
 * Mobilzed - https://www.moblized.com/vendors/register
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/

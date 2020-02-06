@@ -14,6 +14,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * /r/Coupons - https://www.reddit.com/r/coupons/
 * /r/Design_Critiques - https://www.reddit.com/r/design_critiques/
 * /r/Entrepreneur - http://reddit.com/r/entrepreneur
+* /r/EntrepreneurRideAlong - http://www.reddit.com/r/EntrepreneurRideAlong/
 * /r/IMadeThis - http://reddit.com/r/imadethis
 * /r/IndieBiz - https://www.reddit.com/r/indiebiz/
 * /r/LadyBusiness - https://www.reddit.com/r/ladybusiness/
@@ -86,6 +87,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Launching Next - http://www.launchingnext.com/submit/
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup
+* Loop - https://www.loopinput.com/
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
 * Mevvy - https://mevvy.com/submit-app/

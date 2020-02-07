@@ -147,6 +147,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
+* Webwide - https://webwide.io/forums/project-showcase.15/
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
 

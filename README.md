@@ -150,6 +150,9 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Webwide - https://webwide.io/forums/project-showcase.15/
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
+* Indie Hackers - https://www.indiehackers.com/
+* Startups List - https://www.startups-list.com/
+* Startup Tracker - https://startuptracker.io/
 
 [Back to Top](#places-to-post-your-startup)
 

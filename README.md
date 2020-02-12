@@ -147,7 +147,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * The iPhone Mom - https://www.theiphonemom.com/
 * The Startup Pitch - http://thestartuppitch.com/post-a-pitch/
 * Top Alternatives - https://topalternatives.com/
-* Top Similar Sites - http://www.topsimilarsites.com/add.aspx
 * Vator - http://www.vator.tv/
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/

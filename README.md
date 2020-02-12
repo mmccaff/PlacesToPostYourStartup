@@ -59,6 +59,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Capterra - http://www.capterra.com/vendors/sign-up
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
 * Cnet - https://upload.cnet.com/
+* CodeCanyons - https://codecanyons.net
 * Collaborizm - https://www.collaborizm.com
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
@@ -82,15 +83,15 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Idea Hunt - http://ideahunt.io/
 * Inc 42 - https://inc42.com/startup-submission/
 * Index.co - https://index.co/startup
+* Indie Hackers - https://www.indiehackers.com/
 * Killer Startups - http://killerstartups.com/submit-startup/
 * Land-book - https://land-book.com/guidelines
-* Launching Next - http://www.launchingnext.com/submit/
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup
-* Loop - https://www.loopinput.com/
+* Loop - https://app.loopinput.com/ 
+* Launching Next - http://www.launchingnext.com/submit/
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
-* Mevvy - https://mevvy.com/submit-app/
 * Mobilzed - https://www.moblized.com/vendors/register
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/
@@ -105,17 +106,17 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * PublicityX - https://www.publicityx.com/startups/new
 * Rev 2 - http://www.rev2.org/
 * Robingood - http://tools.robingood.com/
+* SaaSHub - https://www.saashub.com/
+* Saasified - https://saasified.co
 * Show HN - https://news.ycombinator.com/showhn.html
-* SideProjects - https://sideprojects.net
 * Side Projectors - https://www.sideprojectors.com
 * Side Projects - http://sideprojects.web3canvas.com
+* SideProjects - https://sideprojects.net
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
 * Software Advice - https://softwareadvice-markets.questionpro.com/
 * Springwise - http://springwise.com/tipus/
-* SaaSHub - https://www.saashub.com/
-* Saasified - https://saasified.co
 * Stack Share - http://stackshare.io/
 * Start HQ - https://starthq.com/apps/submit
 * Starter Story - https://starterstory.com/
@@ -133,8 +134,10 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Resources - https://startupresources.io
 * Startup Stash - http://startupstash.com/
 * Startup Tabs - http://startuptabs.com/
+* Startup Tracker - https://startuptracker.io/
 * Startup88 - http://startup88.com/
 * StartupBlink - http://www.startupblink.com/
+* Startups List - https://www.startups-list.com/
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape - https://www.tapscape.com/
 * Tech Faster - http://techfaster.com/submit-your-company/
@@ -149,6 +152,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
+* Webwide - https://webwide.io/forums/project-showcase.15/
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
 

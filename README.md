@@ -88,8 +88,8 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Land-book - https://land-book.com/guidelines
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup
-* Loop - https://app.loopinput.com/ 
 * Launching Next - http://www.launchingnext.com/submit/
+* Loop - https://app.loopinput.com/ 
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
 * Mobilzed - https://www.moblized.com/vendors/register

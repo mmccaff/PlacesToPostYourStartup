@@ -118,7 +118,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Software Advice - https://softwareadvice-markets.questionpro.com/
 * Springwise - http://springwise.com/tipus/
 * Stack Share - http://stackshare.io/
-* Start HQ - https://starthq.com/apps/submit
 * Starter Story - https://starterstory.com/
 * Startup 88 - https://startup88.com/
 * Startup Base - https://startupbase.io/submit
@@ -135,7 +134,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Stash - http://startupstash.com/
 * Startup Tabs - http://startuptabs.com/
 * Startup Tracker - https://startuptracker.io/
-* Startup88 - http://startup88.com/
 * StartupBlink - http://www.startupblink.com/
 * Startups List - https://www.startups-list.com/
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review

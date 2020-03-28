@@ -109,7 +109,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Saasified - https://saasified.co
 * Show HN - https://news.ycombinator.com/showhn.html
 * Side Projectors - https://www.sideprojectors.com
-* Side Projects - http://sideprojects.web3canvas.com
 * SideProjects - https://sideprojects.net
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/

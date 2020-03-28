@@ -103,7 +103,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Product Hunt - http://www.producthunt.com/
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX - https://www.publicityx.com/startups/new
-* Rev 2 - http://www.rev2.org/
 * Robingood - http://tools.robingood.com/
 * SaaSHub - https://www.saashub.com/
 * Saasified - https://saasified.co

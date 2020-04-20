@@ -84,6 +84,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Index.co - https://index.co/startup
 * Indie Hackers - https://www.indiehackers.com/
 * Killer Startups - http://killerstartups.com/submit-startup/
+* Larasites - https://larasites.com/
 * Land-book - https://land-book.com/guidelines
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup

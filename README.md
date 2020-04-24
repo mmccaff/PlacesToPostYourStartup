@@ -78,7 +78,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Gust - https://www.gust.com
 * Hackerstreet - https://in.thehackerstreet.com/
 * Haro - https://www.helpareporter.com/sources/
-* I Am Wire - http://www.iamwire.com/startups/user/register?uType=Entrepreneur
 * Idea Hunt - http://ideahunt.io/
 * Inc 42 - https://inc42.com/startup-submission/
 * Index.co - https://index.co/startup

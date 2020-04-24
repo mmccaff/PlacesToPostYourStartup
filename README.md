@@ -76,14 +76,12 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Get App - http://getapp.com/
 * Getworm - https://getworm.com/submit-startup
 * Gust - https://www.gust.com
-* Hackerstreet - https://in.thehackerstreet.com/
 * Haro - https://www.helpareporter.com/sources/
 * Idea Hunt - http://ideahunt.io/
 * Inc 42 - https://inc42.com/startup-submission/
 * Index.co - https://index.co/startup
 * Indie Hackers - https://www.indiehackers.com/
 * Killer Startups - http://killerstartups.com/submit-startup/
-* Larasites - https://larasites.com/
 * Land-book - https://land-book.com/guidelines
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup

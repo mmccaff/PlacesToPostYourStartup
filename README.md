@@ -104,6 +104,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Robingood - http://tools.robingood.com/
 * SaaSHub - https://www.saashub.com/
 * Saasified - https://saasified.co
+* Saijo SEO Tools List - https://saijogeorge.com/best-marketing-tools/
 * Show HN - https://news.ycombinator.com/showhn.html
 * Side Projectors - https://www.sideprojectors.com
 * SideProjects - https://sideprojects.net

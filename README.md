@@ -55,6 +55,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * BetaList - https://betalist.com/submit
 * Beterest - https://beterest.com/submit-startup/
 * Boing Boing - http://boingboing.net/sub/
+* Broadwise.org - https://broadwise.org/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/

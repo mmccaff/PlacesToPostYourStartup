@@ -122,6 +122,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Collections - http://startupcollections.com/
 * Startup Dope - http://startupdope.com/submit-news/
 * Startup Inspire - https://www.startupinspire.com/submit
+* Startup John - https://www.startupjohn.com/
 * Startup Lift - http://www.startuplift.com/
 * Startup Ranking - http://www.startupranking.com/
 * Startup Register - http://startupregister.net/register-your-startup/

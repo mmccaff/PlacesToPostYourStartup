@@ -43,7 +43,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Apps Listo - http://appslisto.com/submit-your-app/
 * Apps Mamma - http://appsmamma.com/submit-your-app/
 * Apps Mirror - http://www.appsmirror.com/submit-your-app-for-review
-* AppsNow - http://appsnow.us/submit-app-for-review/
 * AppsThunder - http://appsthunder.com/submit-your-app/
 * AppStorm - http://appstorm.net/
 * Appvita - http://www.appvita.com/

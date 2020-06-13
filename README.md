@@ -32,6 +32,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All Startups - http://www.allstartups.info/Startups/Submit
 * All Top Startups - http://alltopstartups.com/submit-startup/
 * Alternative To - http://alternativeto.net/
+* AngelList - https://angel.co/
 * App 400 - http://apps400.com/
 * App Advice - http://appadvice.com/page/about-us
 * App Appeal - http://www.appappeal.com/contact/suggest

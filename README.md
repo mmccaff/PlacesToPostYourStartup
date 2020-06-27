@@ -51,6 +51,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Arctic Startup - http://arcticstartup.com/
 * Beta Bound - http://www.betabound.com/announce/
 * Beta Page - https://betapage.co/
+* Beta Testing - https://betatesting.com/beta-testing
 * Betafy - https://www.betafy.co/easysignup/startup
 * BetaList - https://betalist.com/submit
 * Beterest - https://beterest.com/submit-startup/
@@ -67,7 +68,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Designer News - https://www.designernews.co/
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
-* Erlibird - https://erlibird.com/beta-testing
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/
 * G2 Crowd - https://www.g2crowd.com/products/new

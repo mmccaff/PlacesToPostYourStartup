@@ -75,6 +75,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Getworm - https://getworm.com/submit-startup
 * Gust - https://www.gust.com
 * Haro - https://www.helpareporter.com/sources/
+* Hackerspad - https://hackerspad.net/submit-software/
 * Idea Hunt - http://ideahunt.io/
 * Inc 42 - https://inc42.com/startup-submission/
 * Index.co - https://index.co/startup

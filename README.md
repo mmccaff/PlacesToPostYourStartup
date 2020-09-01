@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/mmccaff/PlacesToPostYourStartup.svg?branch=master)](https://travis-ci.org/mmccaff/PlacesToPostYourStartup) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Places To Post Your Startup
+
 ##### The [mmccaff/PlacesToPostYourStartup repository on GitHub](https://github.com/mmccaff/PlacesToPostYourStartup) is automatically mirrored to [PlacesToPostYourStartup.com](https://www.placestopostyourstartup.com)
 
 Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post](https://news.ycombinator.com/item?id=6492109). Special thanks to TripHappy for letting me use their updated list from [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
@@ -10,6 +11,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 [Sub-Reddits](#reddit) | [Websites](#websites) | [License](#license)
 
 # Reddit
+
 * /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 * /r/Coupons - https://www.reddit.com/r/coupons/
 * /r/Design_Critiques - https://www.reddit.com/r/design_critiques/
@@ -27,6 +29,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 [Back to Top](#places-to-post-your-startup)
 
 # Websites
+
 * 10words - https://10words.io
 * All My Faves - http://www.allmyfaves.com/
 * All Startups - http://www.allstartups.info/Startups/Submit
@@ -42,7 +45,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Apps 400 - http://apps400.com/submit-your-application-for-review
 * Apps Listo - http://appslisto.com/submit-your-app/
 * Apps Mamma - http://appsmamma.com/submit-your-app/
-* Apps Mirror - http://www.appsmirror.com/submit-your-app-for-review
 * AppsThunder - http://appsthunder.com/submit-your-app/
 * AppStorm - http://appstorm.net/
 * Appvita - http://www.appvita.com/
@@ -85,9 +87,8 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup
 * Launching Next - http://www.launchingnext.com/submit/
-* Loop - https://app.loopinput.com/ 
+* Loop - https://app.loopinput.com/
 * MakeUseOf - http://www.makeuseof.com/about/
-* Mobilzed - https://www.moblized.com/vendors/register
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/
 * Next Big What - http://nextbigwhat.com/

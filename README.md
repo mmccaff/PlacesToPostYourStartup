@@ -55,7 +55,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Beta Testing - https://betatesting.com/beta-testing
 * Betafy - https://www.betafy.co/easysignup/startup
 * BetaList - https://betalist.com/submit
-* Beterest - https://beterest.com/submit-startup/
 * Boing Boing - http://boingboing.net/sub/
 * Broadwise.org - https://broadwise.org/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
@@ -112,7 +111,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
 * Software Advice - https://softwareadvice-markets.questionpro.com/
-* Springwise - http://springwise.com/tipus/
+* Springwise - https://www.springwise.com/spotted/
 * Stack Share - http://stackshare.io/
 * Starter Story - https://starterstory.com/
 * Startup 88 - https://startup88.com/

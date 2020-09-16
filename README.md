@@ -69,6 +69,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Designer News - https://www.designernews.co/
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
+* Emoji Launch - https://emojilaunch.com/
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/
 * G2 Crowd - https://www.g2crowd.com/products/new

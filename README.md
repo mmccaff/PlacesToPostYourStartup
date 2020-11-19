@@ -69,6 +69,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Designer News - https://www.designernews.co/
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
+* eBool - https://www.ebool.com/submit
 * Emoji Launch - https://emojilaunch.com/
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/
@@ -94,8 +95,8 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/
 * Next Big What - http://nextbigwhat.com/
+* Oye Startups - https://oyestartups.com/contact
 * Paggu - http://www.paggu.com/submit-your-startup/
-* eBool - https://www.ebool.com/submit
 * Postmake - https://postmake.io/submit
 * Postscapes - http://about.postscapes.com/tools
 * PreApps - http://www.preapps.com/

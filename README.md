@@ -146,7 +146,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * The Changelog - https://github.com/thechangelog/ping
 * The iPhone Mom - https://www.theiphonemom.com/
 * Top Alternatives - https://topalternatives.com/
-* Trustradius - https://www.trustradius.com/
 * Vator - http://www.vator.tv/
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/

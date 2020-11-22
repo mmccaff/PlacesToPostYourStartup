@@ -35,6 +35,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All Startups - http://www.allstartups.info/Startups/Submit
 * All Top Startups - http://alltopstartups.com/submit-startup/
 * Alternative To - http://alternativeto.net/
+* Alternative.me - https://alternative.me/
 * AngelList - https://angel.co/
 * App 400 - http://apps400.com/
 * App Advice - http://appadvice.com/page/about-us
@@ -137,6 +138,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * StartupBlink - http://www.startupblink.com/
 * Startups List - https://www.startups-list.com/
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
+* Stack Share - https://stackshare.io/ 
 * Tabscape - https://www.tapscape.com/
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Map - http://thetechmap.com/
@@ -144,6 +146,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * The Changelog - https://github.com/thechangelog/ping
 * The iPhone Mom - https://www.theiphonemom.com/
 * Top Alternatives - https://topalternatives.com/
+* Trustradius - https://www.trustradius.com/
 * Vator - http://www.vator.tv/
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/

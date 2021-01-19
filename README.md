@@ -74,6 +74,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Emoji Launch - https://emojilaunch.com/
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/
+* Fiddy - https://fiddy.co
 * G2 Crowd - https://www.g2crowd.com/products/new
 * Geek Wire - http://geekwire.com/startup-list/
 * Get App - http://getapp.com/

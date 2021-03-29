@@ -36,6 +36,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All Top Startups - http://alltopstartups.com/submit-startup/
 * Alternative To - http://alternativeto.net/
 * Alternative.me - https://alternative.me/
+* Alternative To (Github repo) - https://github.com/brentadamson/alternativeto
 * AngelList - https://angel.co/
 * App 400 - http://apps400.com/
 * App Advice - http://appadvice.com/page/about-us

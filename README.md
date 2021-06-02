@@ -119,6 +119,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Springwise - https://www.springwise.com/spotted/
 * Stack Share - http://stackshare.io/
 * Starter Story - https://starterstory.com/
+* StartItUp - https://startitup.io/
 * Startup 88 - https://startup88.com/
 * Startup Base - https://startupbase.io/submit
 * Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/

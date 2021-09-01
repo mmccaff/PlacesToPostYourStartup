@@ -34,6 +34,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All My Faves - http://www.allmyfaves.com/
 * All Startups - http://www.allstartups.info/Startups/Submit
 * All Top Startups - http://alltopstartups.com/submit-startup/
+* AlterDroid Startups https://alterdroid.com/submit-a-startup/
 * Alternative To - http://alternativeto.net/
 * Alternative.me - https://alternative.me/
 * AngelList - https://angel.co/

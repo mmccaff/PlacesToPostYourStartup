@@ -37,7 +37,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Alternative To - http://alternativeto.net/
 * Alternative.me - https://alternative.me/
 * AngelList - https://angel.co/
-* App 400 - http://apps400.com/
 * App Advice - http://appadvice.com/page/about-us
 * App Rater - https://apprater.net/add/
 * Appcrawlr - http://appcrawlr.com/
@@ -139,7 +138,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * StartupBlink - http://www.startupblink.com/
 * Startups List - https://www.startups-list.com/
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
-* Stack Share - https://stackshare.io/ 
 * Tabscape - https://www.tapscape.com/
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Map - http://thetechmap.com/

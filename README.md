@@ -4,7 +4,7 @@
 
 ##### The [mmccaff/PlacesToPostYourStartup repository on GitHub](https://github.com/mmccaff/PlacesToPostYourStartup) is automatically mirrored to [PlacesToPostYourStartup.com](https://www.placestopostyourstartup.com)
 
-Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post](https://news.ycombinator.com/item?id=6492109). Special thanks to TripHappy for letting me use their updated list from [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
+Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post](https://news.ycombinator.com/item?id=6492109).
 
 Click a link to jump to the appropriate section. Both sections are organized alphabetically.
 
@@ -36,7 +36,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All Top Startups - http://alltopstartups.com/submit-startup/
 * Alternative To - http://alternativeto.net/
 * Alternative.me - https://alternative.me/
-* Alternative To (Github repo) - https://github.com/brentadamson/alternativeto
 * AngelList - https://angel.co/
 * App Advice - http://appadvice.com/page/about-us
 * App Rater - https://apprater.net/add/
@@ -47,7 +46,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Apps Listo - http://appslisto.com/submit-your-app/
 * Apps Mamma - http://appsmamma.com/submit-your-app/
 * AppsThunder - http://appsthunder.com/submit-your-app/
-* AppStorm - http://appstorm.net/
 * Appvita - http://www.appvita.com/
 * Arctic Startup - http://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
@@ -60,8 +58,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Broadwise.org - https://broadwise.org/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
-* CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
-* Cnet - https://upload.cnet.com/
 * Collaborizm - https://www.collaborizm.com
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
@@ -100,13 +96,11 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Oye Startups - https://oyestartups.com/contact
 * Paggu - http://www.paggu.com/submit-your-startup/
 * Postmake - https://postmake.io/submit
-* Postscapes - http://about.postscapes.com/tools
 * PreApps - http://www.preapps.com/
 * Product Hunt - http://www.producthunt.com/
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * Project Hatch - https://www.projecthatch.co/your-story/
 * Projectium Network - https://projectium.network
-* PublicityX - https://www.publicityx.com/startups/new
 * Robingood - http://tools.robingood.com/
 * SaaSHub - https://www.saashub.com/
 * Saasified - https://saasified.co
@@ -129,7 +123,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Collections - http://startupcollections.com/
 * Startup Dope - http://startupdope.com/submit-news/
 * Startup Inspire - https://www.startupinspire.com/submit
-* Startup John - https://www.startupjohn.com/
 * Startup Lift - http://www.startuplift.com/
 * Startup Ranking - http://www.startupranking.com/
 * Startup Register - http://startupregister.net/register-your-startup/

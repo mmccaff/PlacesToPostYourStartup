@@ -31,7 +31,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 # Websites
 
 * 10words - https://10words.io
-* All My Faves - http://www.allmyfaves.com/
+* All My Faves - https://www.allmyfaves.com/
 * All Startups - http://www.allstartups.info/Startups/Submit
 * All Top Startups - http://alltopstartups.com/submit-startup/
 * Alternative To - http://alternativeto.net/

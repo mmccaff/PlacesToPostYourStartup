@@ -1,7 +1,13 @@
 {
   "ignorePatterns": [
     {
-      "pattern": "^http://example.net"
+      "pattern": "^https://startupbuffer.com"
+    },
+    {
+      "pattern": "^https://www.launchingnext.com/submit"
+    },
+    {
+      "pattern": "https://www.allmyfaves.com/"
     }
   ],
   "replacementPatterns": [

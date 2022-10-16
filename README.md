@@ -87,7 +87,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Land-book - https://land-book.com/guidelines
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup
-* Launching Next - http://www.launchingnext.com/submit/
+* Launching Next - https://www.launchingnext.com/submit/
 * Loop - https://app.loopinput.com/
 * MakeUseOf - http://www.makeuseof.com/about/
 * Netted - https://www.netted.net/contact-us/
@@ -119,7 +119,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Base - https://startupbase.io/submit
 * Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
 * Startup Benchmarks - https://www.startupbenchmarks.com/
-* Startup Buffer - http://startupbuffer.com
+* Startup Buffer - https://startupbuffer.com
 * Startup Collections - http://startupcollections.com/
 * Startup Dope - http://startupdope.com/submit-news/
 * Startup Inspire - https://www.startupinspire.com/submit

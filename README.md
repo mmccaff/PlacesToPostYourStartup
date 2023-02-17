@@ -21,7 +21,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * /r/IndieBiz - https://www.reddit.com/r/indiebiz/
 * /r/LadyBusiness - https://www.reddit.com/r/ladybusiness/
 * /r/RoastMyStartup - https://www.reddit.com/r/roastmystartup
-* /r/ShamelessPlug - https://www.reddit.com/r/shamelessplug/
 * /r/SideProject - http://reddit.com/r/sideproject
 * /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 * /r/Startups - http://reddit.com/r/startups
@@ -54,9 +53,9 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Beta Testing - https://betatesting.com/beta-testing
 * Betafy - https://www.betafy.co/easysignup/startup
 * BetaList - https://betalist.com/submit
-* Boing Boing - http://boingboing.net/sub/
+* Boing Boing - https://boingboing.net/contact
 * Broadwise.org - https://broadwise.org/
-* BuiltInChicago - http://www.builtinchicago.org/send-us-tip
+* BuiltIn - https://builtin.com/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
 * Collaborizm - https://www.collaborizm.com
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
@@ -64,7 +63,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * CtrlAlt.cc - https://ctrlalt.cc/
 * Crunch Base - https://www.crunchbase.com/#/home/index
 * Designer News - https://www.designernews.co/
-* Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * eBool - https://www.ebool.com/submit
 * Emoji Launch - https://emojilaunch.com/
@@ -78,6 +76,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * GrowthBoosters - https://www.growthboosters.com/product/add
 * Gust - https://www.gust.com
 * Haro - https://www.helpareporter.com/sources/
+* Hacker News - https://news.ycombinator.com/
 * Hackerspad - https://hackerspad.net/submit-software/
 * Inc 42 - https://inc42.com/startup-submission/
 * Index.co - https://index.co/startup
@@ -88,7 +87,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup
 * Launching Next - https://www.launchingnext.com/submit/
-* Loop - https://app.loopinput.com/
 * MakeUseOf - http://www.makeuseof.com/about/
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/
@@ -107,44 +105,37 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/
 * Show HN - https://news.ycombinator.com/showhn.html
 * Side Projectors - https://www.sideprojectors.com
-* SideProjects - https://sideprojects.net
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
-* Software Advice - https://softwareadvice-markets.questionpro.com/
 * Springwise - https://www.springwise.com/spotted/
 * Stack Share - http://stackshare.io/
 * Starter Story - https://starterstory.com/
 * Startup 88 - https://startup88.com/
 * Startup Base - https://startupbase.io/submit
 * Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
-* Startup Benchmarks - https://www.startupbenchmarks.com/
 * Startup Buffer - https://startupbuffer.com
 * Startup Collections - http://startupcollections.com/
 * Startup Inspire - https://www.startupinspire.com/submit
 * Startup Lift - http://www.startuplift.com/
 * Startup Ranking - http://www.startupranking.com/
-* Startup Register - http://startupregister.net/register-your-startup/
 * Startup Resources - https://startupresources.io
 * Startup Stash - http://startupstash.com/
 * Startup Tabs - http://startuptabs.com/
 * Startup Tracker - https://startuptracker.io/
 * StartupBlink - http://www.startupblink.com/
 * Startups List - https://www.startups-list.com/
-* State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape - https://www.tapscape.com/
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Map - http://thetechmap.com/
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
-* The Changelog - https://github.com/thechangelog/ping
+* The Changelog - https://changelog.com/news/submit
 * The iPhone Mom - https://www.theiphonemom.com/
-* Top Alternatives - https://topalternatives.com/
 * Vator - http://www.vator.tv/
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
 * Website Hunt - https://www.websitehunt.co
-* Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
 
 [Back to Top](#places-to-post-your-startup)

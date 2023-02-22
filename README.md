@@ -17,9 +17,11 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * /r/Design_Critiques - https://www.reddit.com/r/design_critiques/
 * /r/Entrepreneur - http://reddit.com/r/entrepreneur
 * /r/EntrepreneurRideAlong - http://www.reddit.com/r/EntrepreneurRideAlong/
+* /r/InternetIsBeautiful - https://www.reddit.com/r/InternetIsBeautiful/
 * /r/IMadeThis - http://reddit.com/r/imadethis
 * /r/IndieBiz - https://www.reddit.com/r/indiebiz/
 * /r/LadyBusiness - https://www.reddit.com/r/ladybusiness/
+* /r/ProductHunters - https://www.reddit.com/r/ProductHunters/
 * /r/RoastMyStartup - https://www.reddit.com/r/roastmystartup
 * /r/ShamelessPlug - https://www.reddit.com/r/shamelessplug/
 * /r/SideProject - http://reddit.com/r/sideproject

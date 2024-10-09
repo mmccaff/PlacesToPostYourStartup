@@ -59,9 +59,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Capterra - http://www.capterra.com/vendors/sign-up
 * Collaborizm - https://www.collaborizm.com
 * CrozDesk - https://vendor.crozdesk.com/user/signup
-* CtrlAlt.cc - https://ctrlalt.cc/
 * Crunch Base - https://www.crunchbase.com/#/home/index
-* Designer News - https://www.designernews.co/
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * eBool - https://www.ebool.com/submit
@@ -102,7 +100,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
 * Software Advice - https://softwareadvice-markets.questionpro.com/
-* Springwise - https://www.springwise.com/spotted/
 * Stack Share - http://stackshare.io/
 * Starter Story - https://starterstory.com/
 * Startup 88 - https://startup88.com/
@@ -110,12 +107,10 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
 * Startup Benchmarks - https://www.startupbenchmarks.com/
 * Startup Buffer - https://startupbuffer.com
-* Startup Collections - http://startupcollections.com/
 * Startup Inspire - https://www.startupinspire.com/submit
 * Startup Lift - http://www.startuplift.com/
 * Startup Ranking - http://www.startupranking.com/
 * Startup Register - http://startupregister.net/register-your-startup/
-* Startup Resources - https://startupresources.io
 * Startup Stash - http://startupstash.com/
 * Startup Tabs - http://startuptabs.com/
 * Startup Tracker - https://startuptracker.io/

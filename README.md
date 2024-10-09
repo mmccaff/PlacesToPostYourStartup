@@ -21,7 +21,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * /r/IndieBiz - https://www.reddit.com/r/indiebiz/
 * /r/LadyBusiness - https://www.reddit.com/r/ladybusiness/
 * /r/RoastMyStartup - https://www.reddit.com/r/roastmystartup
-* /r/ShamelessPlug - https://www.reddit.com/r/shamelessplug/
 * /r/SideProject - http://reddit.com/r/sideproject
 * /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 * /r/Startups - http://reddit.com/r/startups

@@ -90,7 +90,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Product Hunt - http://www.producthunt.com/
 * Project Hatch - https://www.projecthatch.co/your-story/
 * Projectium Network - https://projectium.network
-* Robingood - http://tools.robingood.com/
 * SaaSHub - https://www.saashub.com/
 * Saasified - https://saasified.co
 * Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/

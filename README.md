@@ -79,6 +79,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Land-book - https://land-book.com/guidelines
 * Launched - https://launched.io/SubmitStartup
 * Launching Next - https://www.launchingnext.com/submit/
+* Launching Today - https://www.launching.today/
 * Loop - https://app.loopinput.com/
 * MakeUseOf - http://www.makeuseof.com/about/
 * Netted - https://www.netted.net/contact-us/

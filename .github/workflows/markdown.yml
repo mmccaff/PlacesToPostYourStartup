@@ -27,5 +27,12 @@ jobs:
             name: "Run Lychee"
             uses: "lycheeverse/lychee-action@v2.2.0"
             with:
-                output: "${{ runner.temp }}/lychee/out.md"
+                args: >-
+                    --verbose
+                    --no-progress
+                    --require-https
+                    --max-concurrency 4
+                    --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
+                    './**/*.md'
+                output: ${{ runner.temp }}/lychee/out.md
                 fail: true

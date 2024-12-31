@@ -15,15 +15,15 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 * /r/Coupons - https://www.reddit.com/r/coupons/
 * /r/Design_Critiques - https://www.reddit.com/r/design_critiques/
-* /r/Entrepreneur - http://reddit.com/r/entrepreneur
-* /r/EntrepreneurRideAlong - http://www.reddit.com/r/EntrepreneurRideAlong/
-* /r/IMadeThis - http://reddit.com/r/imadethis
+* /r/Entrepreneur - https://reddit.com/r/entrepreneur
+* /r/EntrepreneurRideAlong - https://www.reddit.com/r/EntrepreneurRideAlong/
+* /r/IMadeThis - https://reddit.com/r/imadethis
 * /r/IndieBiz - https://www.reddit.com/r/indiebiz/
 * /r/LadyBusiness - https://www.reddit.com/r/ladybusiness/
 * /r/RoastMyStartup - https://www.reddit.com/r/roastmystartup
-* /r/SideProject - http://reddit.com/r/sideproject
+* /r/SideProject - https://reddit.com/r/sideproject
 * /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
-* /r/Startups - http://reddit.com/r/startups
+* /r/Startups - https://reddit.com/r/startups
 
 [Back to Top](#places-to-post-your-startup)
 

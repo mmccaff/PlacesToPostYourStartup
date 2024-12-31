@@ -81,6 +81,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Launching Next - https://www.launchingnext.com/submit/
 * Loop - https://app.loopinput.com/
 * MakeUseOf - http://www.makeuseof.com/about/
+* Micro SaaS Examples - https://www.microsaasexamples.com/
 * Netted - https://www.netted.net/contact-us/
 * Next Big What - http://nextbigwhat.com/
 * Oye Startups - https://oyestartups.com/contact

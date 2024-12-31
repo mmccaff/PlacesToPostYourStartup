@@ -51,8 +51,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Beta Bound - http://www.betabound.com/announce/
 * Beta Page - https://betapage.co/
 * Beta Testing - https://betatesting.com/beta-testing
-* Betafy - https://www.betafy.co/easysignup/startup
-* BetaList - https://betalist.com/submit
+* BetaList - https://betalist.com/
 * Boing Boing - http://boingboing.net/sub/
 * Broadwise.org - https://broadwise.org/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
@@ -84,8 +83,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Micro SaaS Examples - https://www.microsaasexamples.com/
 * Netted - https://www.netted.net/contact-us/
 * Next Big What - http://nextbigwhat.com/
-* Oye Startups - https://oyestartups.com/contact
-* Paggu - http://www.paggu.com/submit-your-startup/
 * Postmake - https://postmake.io/submit
 * PreApps - http://www.preapps.com/
 * Product Hunt - http://www.producthunt.com/
@@ -125,7 +122,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
 * The Changelog - https://github.com/thechangelog/ping
 * The iPhone Mom - https://www.theiphonemom.com/
-* Top Alternatives - https://topalternatives.com/
+
 * Vator - http://www.vator.tv/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html

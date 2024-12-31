@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow
+
+name: "Markdown"
+
+on:
+    pull_request: null
+    push:
+        branches:
+        - "master"
+
+permissions: {}
+
+concurrency:
+    group: "${{ github.workflow }}-${{ github.ref }}"
+    cancel-in-progress: true
+
+jobs:
+    links:
+        name: "Links"
+        runs-on: "ubuntu-22.04"
+        timeout-minutes: 10
+        steps:
+        -
+            name: "Checkout repository"
+            uses: "actions/checkout@v4.1.5"
+        -
+            name: "Run Lychee"
+            uses: "lycheeverse/lychee-action@v2.2.0"
+            with:
+                output: "${{ runner.temp }}/lychee/out.md"
+                fail: true

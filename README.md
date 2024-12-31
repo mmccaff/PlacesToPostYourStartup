@@ -51,7 +51,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Beta Bound - http://www.betabound.com/announce/
 * Beta Page - https://betapage.co/
 * Beta Testing - https://betatesting.com/beta-testing
-* BetaList - https://betalist.com/
 * Boing Boing - http://boingboing.net/sub/
 * Broadwise.org - https://broadwise.org/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
@@ -118,7 +117,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape - https://www.tapscape.com/
 * Tech Faster - http://techfaster.com/submit-your-company/
-* Tech Map - http://thetechmap.com/
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
 * The Changelog - https://github.com/thechangelog/ping
 * The iPhone Mom - https://www.theiphonemom.com/

@@ -1,0 +1,19 @@
+^https://reddit\.com/
+^https://www\.reddit\.com/
+^https://www\.betabound\.com/
+$ Behind Cloudflare HTTP/403
+^https://alternativeto\.net/
+^https://geekwire\.com/
+^https://getapp\.com/
+^https://startup88\.com/
+^https://startupbuffer\.com/
+^https://www\.builtinchicago\.org/
+^https://www\.capterra\.com/
+^https://www\.crunchbase\.com/
+^https://www\.g2crowd\.com/
+^https://www\.gust\.com/
+^https://www\.slant\.co/
+^https://www\.startupranking\.com/
+$ Expired certificate
+^https://app\.loopinput\.com/
+^https://www\.allstartups\.info/

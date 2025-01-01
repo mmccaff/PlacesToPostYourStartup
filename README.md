@@ -46,10 +46,9 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Apps Mamma - https://appsmamma.com/submit-your-app/
 * AppsThunder - https://appsthunder.com/submit-your-app/
 * Appvita - https://www.appvita.com/
-* Arctic Startup - http://arcticstartup.com/
+* Arctic Startup - https://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
 * Beta Bound - https://www.betabound.com/announce/
-* Beta Page - https://betapage.co/
 * Beta Testing - https://betatesting.com/beta-testing
 * Broadwise.org - https://broadwise.org/
 * BuiltInChicago - https://www.builtinchicago.org/send-us-tip
@@ -72,7 +71,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Hackerspad - https://hackerspad.net/submit-software/
 * Inc 42 - https://inc42.com/startup-submission/
 * Indie Hackers - https://www.indiehackers.com/
-* Killer Startups - http://killerstartups.com/submit-startup/
+* Killer Startups - https://killerstartups.com/submit-startup/
 * Land-book - https://land-book.com/guidelines
 * Launched - https://launched.io/SubmitStartup
 * Launching Next - https://www.launchingnext.com/submit/
@@ -81,6 +80,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Micro SaaS Examples - https://www.microsaasexamples.com/
 * Netted - https://www.netted.net/contact-us/
 * Next Big What - https://nextbigwhat.com/
+* PitchWall - https://pitchwall.co/product/submit
 * Postmake - https://postmake.io/submit
 * PreApps - https://www.preapps.com/
 * Product Hunt - https://www.producthunt.com/

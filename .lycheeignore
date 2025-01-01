@@ -3,8 +3,11 @@
 ^https://www\.betabound\.com/
 $ Behind Cloudflare HTTP/403
 ^https://alternativeto\.net/
+^https://apprater\.net/
+^https://arcticstartup\.com/
 ^https://geekwire\.com/
 ^https://getapp\.com/
+^https://killerstartups\.com/
 ^https://startup88\.com/
 ^https://startupbuffer\.com/
 ^https://www\.builtinchicago\.org/
@@ -12,8 +15,10 @@ $ Behind Cloudflare HTTP/403
 ^https://www\.crunchbase\.com/
 ^https://www\.g2crowd\.com/
 ^https://www\.gust\.com/
+^https://www\.launchingnext\.com/
 ^https://www\.slant\.co/
 ^https://www\.startupranking\.com/
+^https://www\.websitehunt\.co/
 $ Expired certificate
 ^https://app\.loopinput\.com/
 ^https://www\.allstartups\.info/

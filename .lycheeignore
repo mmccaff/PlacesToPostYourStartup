@@ -1,6 +1,7 @@
 ^https://reddit\.com/
 ^https://www\.reddit\.com/
 ^https://www\.betabound\.com/
+^https://stackshare\.io/
 $ Behind Cloudflare HTTP/403
 ^https://alternativeto\.net/
 ^https://apprater\.net/

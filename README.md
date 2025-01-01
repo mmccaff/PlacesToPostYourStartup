@@ -32,7 +32,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * 10words - https://10words.io
 * AI Collection - https://www.thataicollection.com/
 * All My Faves - https://www.allmyfaves.com/
-* All Startups - http://www.allstartups.info/Startups/Submit
+* All Startups - https://www.allstartups.info/Startups/Submit
 * All Top Startups - https://alltopstartups.com/submit-startup/
 * Alternative To - https://alternativeto.net/
 * Alternative.me - https://alternative.me/
@@ -48,13 +48,12 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Appvita - https://www.appvita.com/
 * Arctic Startup - http://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
-* Beta Bound - http://www.betabound.com/announce/
+* Beta Bound - https://www.betabound.com/announce/
 * Beta Page - https://betapage.co/
 * Beta Testing - https://betatesting.com/beta-testing
-* Boing Boing - http://boingboing.net/sub/
 * Broadwise.org - https://broadwise.org/
-* BuiltInChicago - http://www.builtinchicago.org/send-us-tip
-* Capterra - http://www.capterra.com/vendors/sign-up
+* BuiltInChicago - https://www.builtinchicago.org/send-us-tip
+* Capterra - https://www.capterra.com/vendors/sign-up
 * Collaborizm - https://www.collaborizm.com
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
@@ -64,8 +63,8 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * F6S - https://www.f6s.com/
 * Fiddy - https://fiddy.co
 * G2 Crowd - https://www.g2crowd.com/products/new
-* Geek Wire - http://geekwire.com/startup-list/
-* Get App - http://getapp.com/
+* Geek Wire - https://geekwire.com/startup-list/
+* Get App - https://getapp.com/
 * Getworm - https://getworm.com/submit-startup
 * GrowthBoosters - https://www.growthboosters.com/product/add
 * Gust - https://www.gust.com
@@ -88,7 +87,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Project Hatch - https://www.projecthatch.co/your-story/
 * Projectium Network - https://projectium.network
 * SaaSHub - https://www.saashub.com/
-* Saasified - https://saasified.co
 * Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/
 * Show HN - https://news.ycombinator.com/showhn.html
 * Side Projectors - https://www.sideprojectors.com
@@ -106,7 +104,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Buffer - https://startupbuffer.com
 * Startup Inspire - https://www.startupinspire.com/submit
 * Startup Lift - http://www.startuplift.com/
-* Startup Ranking - http://www.startupranking.com/
+* Startup Ranking - https://www.startupranking.com/
 * Startup Register - http://startupregister.net/register-your-startup/
 * Startup Stash - https://startupstash.com/
 * Startup Tabs - https://startuptabs.com/
@@ -117,10 +115,9 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * State of Tech - https://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape - https://www.tapscape.com/
 * Tech Faster - http://techfaster.com/submit-your-company/
+* Tech Map - https://thetechmap.com/
 * Tech Pluto - https://www.techpluto.com/submit-a-startup/
 * The Changelog - https://github.com/thechangelog/ping
-* The iPhone Mom - https://www.theiphonemom.com/
-
 * Vator - https://www.vator.tv/
 * Venture Beat - https://venturebeat.com/news-tips/
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html

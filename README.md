@@ -48,6 +48,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Appvita - http://www.appvita.com/
 * Arctic Startup - http://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
+* Awesome Money Platforms - https://github.com/yourusername/awesome-money-platforms
 * Beta Bound - http://www.betabound.com/announce/
 * Beta Page - https://betapage.co/
 * Beta Testing - https://betatesting.com/beta-testing
@@ -82,58 +83,4 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Micro SaaS Examples - https://www.microsaasexamples.com/
 * Netted - https://www.netted.net/contact-us/
 * Next Big What - http://nextbigwhat.com/
-* Postmake - https://postmake.io/submit
-* PreApps - http://www.preapps.com/
-* Product Hunt - http://www.producthunt.com/
-* Project Hatch - https://www.projecthatch.co/your-story/
-* Projectium Network - https://projectium.network
-* SaaSHub - https://www.saashub.com/
-* Saasified - https://saasified.co
-* Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/
-* Show HN - https://news.ycombinator.com/showhn.html
-* Side Projectors - https://www.sideprojectors.com
-* Simple Lister - https://simplelister.com/
-* SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
-* Slant - https://www.slant.co/
-* SnapMunk - https://www.snapmunk.com/submit-your-startup/
-* Software Advice - https://softwareadvice-markets.questionpro.com/
-* Stack Share - http://stackshare.io/
-* Starter Story - https://starterstory.com/
-* Startup 88 - https://startup88.com/
-* Startup Base - https://startupbase.io/submit
-* Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
-* Startup Benchmarks - https://www.startupbenchmarks.com/
-* Startup Buffer - https://startupbuffer.com
-* Startup Inspire - https://www.startupinspire.com/submit
-* Startup Lift - http://www.startuplift.com/
-* Startup Ranking - http://www.startupranking.com/
-* Startup Register - http://startupregister.net/register-your-startup/
-* Startup Stash - http://startupstash.com/
-* Startup Tabs - http://startuptabs.com/
-* Startup Tracker - https://startuptracker.io/
-* StartupBlink - http://www.startupblink.com/
-* Startups Gallery - https://startups.gallery/
-* Startups List - https://www.startups-list.com/
-* State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
-* Tabscape - https://www.tapscape.com/
-* Tech Faster - http://techfaster.com/submit-your-company/
-* Tech Pluto - http://www.techpluto.com/submit-a-startup/
-* The Changelog - https://github.com/thechangelog/ping
-* The iPhone Mom - https://www.theiphonemom.com/
-
-* Vator - http://www.vator.tv/
-* Venture Beat - http://venturebeat.com/news-tips/
-* Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
-* Website Hunt - https://www.websitehunt.co
-* Ycombinator - https://news.ycombinator.com/
-* yesRamen - https://yesramen.com/
-
-[Back to Top](#places-to-post-your-startup)
-
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Matt McCaffrey](http://www.mattmccaffrey.com/) has waived all copyright and related or neighboring rights to this work.
-
-[Back to Top](#places-to-post-your-startup)
+* Postmake - h  # First 4000 chars for context

@@ -119,7 +119,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
 * The Changelog - https://github.com/thechangelog/ping
-* The iPhone Mom - https://www.theiphonemom.com/
 
 * Vator - http://www.vator.tv/
 * Venture Beat - http://venturebeat.com/news-tips/

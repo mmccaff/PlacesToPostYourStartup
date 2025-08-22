@@ -66,6 +66,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * G2 Crowd - https://www.g2crowd.com/products/new
 * Geek Wire - http://geekwire.com/startup-list/
 * Get App - http://getapp.com/
+* Instaking - http://instaking.org/
 * Getworm - https://getworm.com/submit-startup
 * GrowthBoosters - https://www.growthboosters.com/product/add
 * Gust - https://www.gust.com

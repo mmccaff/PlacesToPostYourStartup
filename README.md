@@ -67,7 +67,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * GrowthBoosters - https://www.growthboosters.com/product/add
 * Gust - https://www.gust.com
 * Haro - https://www.helpareporter.com
-* Hackerspad - https://hackerspad.net/submit-software/
 * Inc 42 - https://inc42.com/startup-submission/
 * Indie Hackers - https://www.indiehackers.com/
 * Killer Startups - http://killerstartups.com/submit-startup/

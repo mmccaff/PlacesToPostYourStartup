@@ -83,7 +83,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * PreApps - http://www.preapps.com/
 * Product Hunt - http://www.producthunt.com/
 * Project Hatch - https://www.projecthatch.co/your-story/
-* Projectium Network - https://projectium.network
 * SaaSHub - https://www.saashub.com/
 * Saasified - https://saasified.co
 * Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/

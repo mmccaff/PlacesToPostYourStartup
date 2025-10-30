@@ -61,6 +61,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * eBool - https://www.ebool.com/submit
+* Emoji Launch - https://emojilaunch.com/
 * F6S - http://www.f6s.com/
 * Fiddy - https://fiddy.co
 * G2 Crowd - https://www.g2crowd.com/products/new

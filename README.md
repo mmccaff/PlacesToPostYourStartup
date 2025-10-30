@@ -110,7 +110,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
 * Vator - http://www.vator.tv/
-* Venture Beat - http://venturebeat.com/news-tips/
+* Venture Beat - https://venturebeat.com/contact-2
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
 * Website Hunt - https://www.websitehunt.co
 * Ycombinator - https://news.ycombinator.com/

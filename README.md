@@ -100,7 +100,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Buffer - https://startupbuffer.com
 * Startup Inspire - https://www.startupinspire.com/submit
 * Startup Ranking - http://www.startupranking.com/
-* Startup Register - http://startupregister.net/register-your-startup/
 * Startup Stash - http://startupstash.com/
 * Startup Tabs - http://startuptabs.com/
 * Startup Tracker - https://startuptracker.io/

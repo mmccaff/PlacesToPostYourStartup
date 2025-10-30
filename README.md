@@ -53,7 +53,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Boing Boing - http://boingboing.net/sub/
 * Broadwise.org - https://broadwise.org/
 * Capterra - http://www.capterra.com/vendors/sign-up
-* Collaborizm - https://www.collaborizm.com
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
 * Discova - http://www.discova.co/

@@ -55,7 +55,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Capterra - http://www.capterra.com/vendors/sign-up
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
-* Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * eBool - https://www.ebool.com/submit
 * Emoji Launch - https://emojilaunch.com/

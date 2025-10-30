@@ -49,7 +49,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Arctic Startup - http://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
 * Beta Bound - http://www.betabound.com/announce/
-* Beta Page - https://betapage.co/
 * Beta Testing - https://betatesting.com/beta-testing
 * Boing Boing - http://boingboing.net/sub/
 * Broadwise.org - https://broadwise.org/
@@ -83,6 +82,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Micro SaaS Examples - https://www.microsaasexamples.com/
 * Netted - https://www.netted.net/contact-us/
 * Next Big What - http://nextbigwhat.com/
+* PitchWall - https://pitchwall.co/
 * Postmake - https://postmake.io/submit
 * PreApps - http://www.preapps.com/
 * Product Hunt - http://www.producthunt.com/

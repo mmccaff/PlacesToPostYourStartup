@@ -91,7 +91,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Simple Lister - https://simplelister.com/
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/
-* Software Advice - https://softwareadvice-markets.questionpro.com/
 * Stack Share - http://stackshare.io/
 * Starter Story - https://starterstory.com/
 * Startup 88 - https://startup88.com/

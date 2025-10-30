@@ -99,7 +99,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Benchmarks - https://www.startupbenchmarks.com/
 * Startup Buffer - https://startupbuffer.com
 * Startup Inspire - https://www.startupinspire.com/submit
-* Startup Lift - http://www.startuplift.com/
 * Startup Ranking - http://www.startupranking.com/
 * Startup Register - http://startupregister.net/register-your-startup/
 * Startup Stash - http://startupstash.com/

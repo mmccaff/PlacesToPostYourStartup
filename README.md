@@ -114,7 +114,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
 * Website Hunt - https://www.websitehunt.co
 * Ycombinator - https://news.ycombinator.com/
-* yesRamen - https://yesramen.com/
 
 [Back to Top](#places-to-post-your-startup)
 

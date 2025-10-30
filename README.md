@@ -52,7 +52,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Beta Testing - https://betatesting.com/beta-testing
 * Boing Boing - http://boingboing.net/sub/
 * Broadwise.org - https://broadwise.org/
-* BuiltInChicago - http://www.builtinchicago.org/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
 * Collaborizm - https://www.collaborizm.com
 * CrozDesk - https://vendor.crozdesk.com/user/signup

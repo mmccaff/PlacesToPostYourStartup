@@ -35,8 +35,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All Startups - http://www.allstartups.info/Startups/Submit
 * All Top Startups - http://alltopstartups.com/submit-startup/
 * Alternative To - http://alternativeto.net/
-* Alternative.me - https://alternative.me/
-* AngelList - https://angel.co/
 * App Advice - http://appadvice.com/page/about-us
 * App Rater - https://apprater.net/add/
 * Appoid - http://appiod.com/submit-app-for-review/

@@ -49,18 +49,15 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Arctic Startup - http://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
 * Beta Bound - http://www.betabound.com/announce/
-* Beta Page - https://betapage.co/
 * Beta Testing - https://betatesting.com/beta-testing
 * Boing Boing - http://boingboing.net/sub/
 * Broadwise.org - https://broadwise.org/
-* BuiltInChicago - http://www.builtinchicago.org/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
-* Collaborizm - https://www.collaborizm.com
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
-* Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * eBool - https://www.ebool.com/submit
+* Emoji Launch - https://emojilaunch.com/
 * F6S - http://www.f6s.com/
 * Fiddy - https://fiddy.co
 * G2 Crowd - https://www.g2crowd.com/products/new
@@ -69,8 +66,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Getworm - https://getworm.com/submit-startup
 * GrowthBoosters - https://www.growthboosters.com/product/add
 * Gust - https://www.gust.com
-* Haro - https://www.helpareporter.com/sources/
-* Hackerspad - https://hackerspad.net/submit-software/
+* Haro - https://www.helpareporter.com
 * Inc 42 - https://inc42.com/startup-submission/
 * Indie Hackers - https://www.indiehackers.com/
 * Killer Startups - http://killerstartups.com/submit-startup/
@@ -82,11 +78,11 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Micro SaaS Examples - https://www.microsaasexamples.com/
 * Netted - https://www.netted.net/contact-us/
 * Next Big What - http://nextbigwhat.com/
+* PitchWall - https://pitchwall.co/
 * Postmake - https://postmake.io/submit
 * PreApps - http://www.preapps.com/
 * Product Hunt - http://www.producthunt.com/
 * Project Hatch - https://www.projecthatch.co/your-story/
-* Projectium Network - https://projectium.network
 * SaaSHub - https://www.saashub.com/
 * Saasified - https://saasified.co
 * Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/
@@ -95,8 +91,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Simple Lister - https://simplelister.com/
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/
-* SnapMunk - https://www.snapmunk.com/submit-your-startup/
-* Software Advice - https://softwareadvice-markets.questionpro.com/
 * Stack Share - http://stackshare.io/
 * Starter Story - https://starterstory.com/
 * Startup 88 - https://startup88.com/
@@ -105,28 +99,21 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Benchmarks - https://www.startupbenchmarks.com/
 * Startup Buffer - https://startupbuffer.com
 * Startup Inspire - https://www.startupinspire.com/submit
-* Startup Lift - http://www.startuplift.com/
 * Startup Ranking - http://www.startupranking.com/
-* Startup Register - http://startupregister.net/register-your-startup/
 * Startup Stash - http://startupstash.com/
 * Startup Tabs - http://startuptabs.com/
 * Startup Tracker - https://startuptracker.io/
 * StartupBlink - http://www.startupblink.com/
 * Startups Gallery - https://startups.gallery/
 * Startups List - https://www.startups-list.com/
-* State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape - https://www.tapscape.com/
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
-* The Changelog - https://github.com/thechangelog/ping
-* The iPhone Mom - https://www.theiphonemom.com/
-
 * Vator - http://www.vator.tv/
-* Venture Beat - http://venturebeat.com/news-tips/
+* Venture Beat - https://venturebeat.com/contact-2
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
 * Website Hunt - https://www.websitehunt.co
 * Ycombinator - https://news.ycombinator.com/
-* yesRamen - https://yesramen.com/
 
 [Back to Top](#places-to-post-your-startup)
 

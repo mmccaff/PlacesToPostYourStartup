@@ -51,7 +51,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Beta Bound - http://www.betabound.com/announce/
 * Beta Testing - https://betatesting.com/beta-testing
 * Boing Boing - http://boingboing.net/sub/
-* Broadwise.org - https://broadwise.org/
 * Capterra - http://www.capterra.com/vendors/sign-up
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
@@ -66,7 +65,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Getworm - https://getworm.com/submit-startup
 * GrowthBoosters - https://www.growthboosters.com/product/add
 * Gust - https://www.gust.com
-* Haro - https://www.helpareporter.com
 * Inc 42 - https://inc42.com/startup-submission/
 * Indie Hackers - https://www.indiehackers.com/
 * Killer Startups - http://killerstartups.com/submit-startup/
@@ -110,7 +108,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
 * Vator - http://www.vator.tv/
-* Venture Beat - https://venturebeat.com/contact-2
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
 * Website Hunt - https://www.websitehunt.co
 * Ycombinator - https://news.ycombinator.com/

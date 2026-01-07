@@ -24,6 +24,9 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * /r/SideProject - http://reddit.com/r/sideproject
 * /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 * /r/Startups - http://reddit.com/r/startups
+* /r/SeeknWander - https://reddit.com/r/seeknwander
+
+  
 
 [Back to Top](#places-to-post-your-startup)
 

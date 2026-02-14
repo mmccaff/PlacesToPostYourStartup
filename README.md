@@ -114,7 +114,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startups List - https://www.startups-list.com/
 * State of Tech - https://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape - https://www.tapscape.com/
-* Tech Faster - http://techfaster.com/submit-your-company/
+* Tech Faster - https://techfaster.com/submit-your-company/
 * Tech Map - https://thetechmap.com/
 * Tech Pluto - https://www.techpluto.com/submit-a-startup/
 * The Changelog - https://github.com/thechangelog/ping

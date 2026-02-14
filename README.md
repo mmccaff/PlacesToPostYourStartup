@@ -105,7 +105,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Inspire - https://www.startupinspire.com/submit
 * Startup Lift - http://www.startuplift.com/
 * Startup Ranking - https://www.startupranking.com/
-* Startup Register - http://startupregister.net/register-your-startup/
+* Startup Register - https://startupregister.net/register-your-startup/
 * Startup Stash - https://startupstash.com/
 * Startup Tabs - https://startuptabs.com/
 * Startup Tracker - https://startuptracker.io/

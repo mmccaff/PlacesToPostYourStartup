@@ -30,3 +30,6 @@
 # Expired certificate
 ^https://app\.loopinput\.com/
 ^https://www\.allstartups\.info/
+# Random timeouts and errors
+^https://alltopstartups\.com/
+^https://launched\.io/

@@ -67,6 +67,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Killer Startups - https://killerstartups.com/submit-startup/
 * Land-book - https://land-book.com/guidelines
 * Launched - https://launched.io/SubmitStartup
+* LaunchIgniter - https://launchigniter.com/submit
 * Launching Next - https://www.launchingnext.com/submit/
 * Loop - https://app.loopinput.com/
 * MakeUseOf - https://www.makeuseof.com/about/

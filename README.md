@@ -48,7 +48,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Awesome Indie - https://awesomeindie.com
 * Beta Bound - https://www.betabound.com/announce/
 * Beta Testing - https://betatesting.com/beta-testing
-* Broadwise.org - https://broadwise.org/
 * BuiltInChicago - https://www.builtinchicago.org/send-us-tip
 * Capterra - https://www.capterra.com/vendors/sign-up
 * Collaborizm - https://www.collaborizm.com
@@ -102,7 +101,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Tracker - https://startuptracker.io/
 * StartupBlink - https://www.startupblink.com/
 * Startups Gallery - https://startups.gallery/
-* Startups List - https://www.startups-list.com/
 * State of Tech - https://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape - https://www.tapscape.com/
 * Tech Map - https://thetechmap.com/

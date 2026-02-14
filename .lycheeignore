@@ -2,7 +2,7 @@
 ^https://www\.reddit\.com/
 ^https://www\.betabound\.com/
 ^https://stackshare\.io/
-$ Behind Cloudflare HTTP/403
+# Behind Cloudflare HTTP/403
 ^https://alternativeto\.net/
 ^https://apprater\.net/
 ^https://arcticstartup\.com/
@@ -21,6 +21,12 @@ $ Behind Cloudflare HTTP/403
 ^https://www\.slant\.co/
 ^https://www\.startupranking\.com/
 ^https://www\.websitehunt\.co/
-$ Expired certificate
+^https://thetechmap\.com/
+^https://www.producthunt\.com/
+^https://www.saashub\.com/
+^https://www.sideprojectors\.com/
+^https://www.snapmunk\.com/
+^https://www.startupblink\.com/
+# Expired certificate
 ^https://app\.loopinput\.com/
 ^https://www\.allstartups\.info/

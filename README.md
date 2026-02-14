@@ -37,7 +37,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Alternative To - https://alternativeto.net/
 * Alternative.me - https://alternative.me/
 * AngelList - https://angel.co/
-* App Advice - https://appadvice.com/page/about-us
 * App Rater - https://apprater.net/add/
 * Appoid - https://appiod.com/submit-app-for-review/
 * appPicker - https://www.apppicker.com/
@@ -102,7 +101,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Inspire - https://www.startupinspire.com/submit
 * Startup Lift - http://www.startuplift.com/
 * Startup Ranking - https://www.startupranking.com/
-* Startup Register - https://startupregister.net/register-your-startup/
 * Startup Stash - https://startupstash.com/
 * Startup Tabs - https://startuptabs.com/
 * Startup Tracker - https://startuptracker.io/
@@ -111,7 +109,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startups List - https://www.startups-list.com/
 * State of Tech - https://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape - https://www.tapscape.com/
-* Tech Faster - https://techfaster.com/submit-your-company/
 * Tech Map - https://thetechmap.com/
 * Tech Pluto - https://www.techpluto.com/submit-a-startup/
 * The Changelog - https://github.com/thechangelog/ping

@@ -105,6 +105,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tabscape - https://www.tapscape.com/
 * Tech Map - https://thetechmap.com/
 * Tech Pluto - https://www.techpluto.com/submit-a-startup/
+* Tiny Launch - https://www.tinylaunch.
 * The Changelog - https://github.com/thechangelog/ping
 * Vator - https://www.vator.tv/
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html

@@ -4,6 +4,7 @@ name: "Markdown"
 
 on:
     pull_request: null
+    workflow_dispatch:
     push:
         branches:
         - "master"

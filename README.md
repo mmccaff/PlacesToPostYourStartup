@@ -40,7 +40,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * App Rater - https://apprater.net/add/
 * Appoid - https://appiod.com/submit-app-for-review/
 * appPicker - https://www.apppicker.com/
-* Apps 400 - https://apps400.com/submit-your-application-for-review
 * Apps Listo - https://appslisto.com/submit-your-app/
 * Apps Mamma - https://appsmamma.com/submit-your-app/
 * AppsThunder - https://appsthunder.com/submit-your-app/
@@ -55,7 +54,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Collaborizm - https://www.collaborizm.com
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
-* Discova - https://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * eBool - https://www.ebool.com/submit
 * F6S - https://www.f6s.com/
@@ -64,7 +62,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Geek Wire - https://geekwire.com/startup-list/
 * Get App - https://getapp.com/
 * Getworm - https://getworm.com/submit-startup
-* GrowthBoosters - https://www.growthboosters.com/product/add
 * Gust - https://www.gust.com
 * Inc 42 - https://inc42.com/startup-submission/
 * Indie Hackers - https://www.indiehackers.com/
@@ -99,7 +96,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Benchmarks - https://www.startupbenchmarks.com/
 * Startup Buffer - https://startupbuffer.com
 * Startup Inspire - https://www.startupinspire.com/submit
-* Startup Lift - http://www.startuplift.com/
 * Startup Ranking - https://www.startupranking.com/
 * Startup Stash - https://startupstash.com/
 * Startup Tabs - https://startuptabs.com/
@@ -113,7 +109,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tech Pluto - https://www.techpluto.com/submit-a-startup/
 * The Changelog - https://github.com/thechangelog/ping
 * Vator - https://www.vator.tv/
-* Venture Beat - https://venturebeat.com/news-tips/
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
 * Website Hunt - https://www.websitehunt.co
 * Ycombinator - https://news.ycombinator.com/

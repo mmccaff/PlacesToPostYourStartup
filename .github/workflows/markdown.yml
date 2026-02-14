@@ -22,7 +22,7 @@ jobs:
         steps:
         -
             name: "Checkout repository"
-            uses: "actions/checkout@v4.1.5"
+            uses: "actions/checkout@v4"
         -
             name: "Run Lychee"
             uses: "lycheeverse/lychee-action@v2.2.0"

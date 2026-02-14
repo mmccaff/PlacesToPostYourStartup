@@ -1,0 +1,32 @@
+^https://reddit\.com/
+^https://www\.reddit\.com/
+^https://www\.betabound\.com/
+^https://stackshare\.io/
+# Behind Cloudflare HTTP/403
+^https://alternativeto\.net/
+^https://apprater\.net/
+^https://arcticstartup\.com/
+^https://geekwire\.com/
+^https://getapp\.com/
+^https://killerstartups\.com/
+^https://pitchwall\.co/
+^https://startup88\.com/
+^https://startupbuffer\.com/
+^https://www\.builtinchicago\.org/
+^https://www\.capterra\.com/
+^https://www\.crunchbase\.com/
+^https://www\.g2crowd\.com/
+^https://www\.gust\.com/
+^https://www\.launchingnext\.com/
+^https://www\.slant\.co/
+^https://www\.startupranking\.com/
+^https://www\.websitehunt\.co/
+^https://thetechmap\.com/
+^https://www.producthunt\.com/
+^https://www.saashub\.com/
+^https://www.sideprojectors\.com/
+^https://www.snapmunk\.com/
+^https://www.startupblink\.com/
+# Expired certificate
+^https://app\.loopinput\.com/
+^https://www\.allstartups\.info/

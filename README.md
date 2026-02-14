@@ -67,8 +67,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Getworm - https://getworm.com/submit-startup
 * GrowthBoosters - https://www.growthboosters.com/product/add
 * Gust - https://www.gust.com
-* Haro - https://www.helpareporter.com/sources/
-* Hackerspad - https://hackerspad.net/submit-software/
 * Inc 42 - https://inc42.com/startup-submission/
 * Indie Hackers - https://www.indiehackers.com/
 * Killer Startups - https://killerstartups.com/submit-startup/
@@ -85,7 +83,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * PreApps - https://www.preapps.com/
 * Product Hunt - https://www.producthunt.com/
 * Project Hatch - https://www.projecthatch.co/your-story/
-* Projectium Network - https://projectium.network
 * SaaSHub - https://www.saashub.com/
 * Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/
 * Show HN - https://news.ycombinator.com/showhn.html
@@ -123,7 +120,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
 * Website Hunt - https://www.websitehunt.co
 * Ycombinator - https://news.ycombinator.com/
-* yesRamen - https://yesramen.com/
 
 [Back to Top](#places-to-post-your-startup)
 

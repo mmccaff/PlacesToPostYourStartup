@@ -61,6 +61,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
+* DBX Studio - https://www.dbxstudio.com
 * eBool - https://www.ebool.com/submit
 * F6S - https://www.f6s.com/
 * Fiddy - https://fiddy.co

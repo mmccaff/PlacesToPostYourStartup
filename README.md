@@ -130,3 +130,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 To the extent possible under law, [Matt McCaffrey](https://www.mattmccaffrey.com/) has waived all copyright and related or neighboring rights to this work.
 
 [Back to Top](#places-to-post-your-startup)
+
+
+* [Launched](https://launched.deskio.org) – Merit-based product discovery platform for indie makers. No algorithm, no paid placement, 30-second submission. Free forever.

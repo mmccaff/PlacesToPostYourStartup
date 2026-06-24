@@ -130,3 +130,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 To the extent possible under law, [Matt McCaffrey](https://www.mattmccaffrey.com/) has waived all copyright and related or neighboring rights to this work.
 
 [Back to Top](#places-to-post-your-startup)
+
+## Directories
+
+- [Toolquix](https://toolquix.com) - A curated directory of tools, software, and digital resources.

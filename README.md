@@ -71,6 +71,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Gust - https://www.gust.com
 * Inc 42 - https://inc42.com/startup-submission/
 * Indie Hackers - https://www.indiehackers.com/
+* JustLaunched - https://justlaunched.fyi
 * Killer Startups - https://killerstartups.com/submit-startup/
 * Land-book - https://land-book.com/guidelines
 * Launched - https://launched.io/SubmitStartup

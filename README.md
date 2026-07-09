@@ -57,6 +57,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Beta Testing - https://betatesting.com/beta-testing
 * BuiltInChicago - https://www.builtinchicago.org/send-us-tip
 * Capterra - https://www.capterra.com/vendors/sign-up
+* Cheapbastards - https://cheapbastards.xyz/
 * Collaborizm - https://www.collaborizm.com
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index

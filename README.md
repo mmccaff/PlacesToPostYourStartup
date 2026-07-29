@@ -80,6 +80,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * MakeUseOf - https://www.makeuseof.com/about/
 * Micro SaaS Examples - https://www.microsaasexamples.com/
 * Netted - https://www.netted.net/contact-us/
+* Newzino - https://newzino.com/get-covered
 * Next Big What - https://nextbigwhat.com/
 * PitchWall - https://pitchwall.co/product/submit
 * Postmake - https://postmake.io/submit

@@ -86,6 +86,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * PreApps - https://www.preapps.com/
 * Product Hunt - https://www.producthunt.com/
 * Project Hatch - https://www.projecthatch.co/your-story/
+* VestingGap - https://www.vestinggap.com/
 * SaaSHub - https://www.saashub.com/
 * SaasRow - https://saasrow.com/
 * Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/

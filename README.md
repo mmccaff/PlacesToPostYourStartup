@@ -38,6 +38,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 
 * 10words - https://10words.io
 * AI Collection - https://www.thataicollection.com/
+* AiToolsObserver - https://aitoolsobserver.com/
 * All My Faves - https://www.allmyfaves.com/
 * All Startups - https://www.allstartups.info/Startups/Submit
 * All Top Startups - https://alltopstartups.com/submit-startup/

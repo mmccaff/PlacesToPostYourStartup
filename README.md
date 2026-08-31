@@ -78,6 +78,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Loop - https://app.loopinput.com/
 * MakeUseOf - https://www.makeuseof.com/about/
 * Micro SaaS Examples - https://www.microsaasexamples.com/
+* Mydentify - https://mydentify.com/submit
 * Netted - https://www.netted.net/contact-us/
 * Next Big What - https://nextbigwhat.com/
 * PitchWall - https://pitchwall.co/product/submit

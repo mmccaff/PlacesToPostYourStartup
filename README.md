@@ -58,6 +58,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * BuiltInChicago - https://www.builtinchicago.org/send-us-tip
 * Capterra - https://www.capterra.com/vendors/sign-up
 * Collaborizm - https://www.collaborizm.com
+* Crowdstax - https://www.crowdstax.com
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor

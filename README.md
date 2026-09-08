@@ -115,6 +115,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tiny Launch - https://www.tinylaunch.com
 * The Changelog - https://github.com/thechangelog/ping
 * Vator - https://www.vator.tv/
+* Vantaige - https://vantaige.io/list-your-ai-tool
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
 * Website Hunt - https://www.websitehunt.co
 * Ycombinator - https://news.ycombinator.com/

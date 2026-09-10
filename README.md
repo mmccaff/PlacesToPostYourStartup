@@ -45,6 +45,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Alternative.me - https://alternative.me/
 * AngelList - https://angel.co/
 * App Rater - https://apprater.net/add/
+* AppLensy - https://applensy.com/submit
 * Appoid - https://appiod.com/submit-app-for-review/
 * appPicker - https://www.apppicker.com/
 * Apps Listo - https://appslisto.com/submit-your-app/

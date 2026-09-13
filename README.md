@@ -80,6 +80,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Micro SaaS Examples - https://www.microsaasexamples.com/
 * Netted - https://www.netted.net/contact-us/
 * Next Big What - https://nextbigwhat.com/
+* Nick Launches - https://nicklaunches.com/
 * PitchWall - https://pitchwall.co/product/submit
 * Postmake - https://postmake.io/submit
 * PreApps - https://www.preapps.com/

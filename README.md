@@ -35,7 +35,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 [Back to Top](#places-to-post-your-startup)
 
 # Websites
-
+* Lanci - https://lanci.dev
 * 10words - https://10words.io
 * AI Collection - https://www.thataicollection.com/
 * All My Faves - https://www.allmyfaves.com/

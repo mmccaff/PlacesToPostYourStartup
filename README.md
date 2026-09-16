@@ -41,6 +41,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All My Faves - https://www.allmyfaves.com/
 * All Startups - https://www.allstartups.info/Startups/Submit
 * All Top Startups - https://alltopstartups.com/submit-startup/
+* A1Lab - https://a1lab.tech
 * Alternative To - https://alternativeto.net/
 * Alternative.me - https://alternative.me/
 * AngelList - https://angel.co/

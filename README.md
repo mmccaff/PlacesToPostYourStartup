@@ -60,6 +60,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Collaborizm - https://www.collaborizm.com
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
+* daily.dev - https://daily.dev/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * eBool - https://www.ebool.com/submit
 * F6S - https://www.f6s.com/

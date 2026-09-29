@@ -90,6 +90,8 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Show HN - https://news.ycombinator.com/showhn.html
 * Side Projectors - https://www.sideprojectors.com
 * Simple Lister - https://simplelister.com/
+* Be Positive Life Planner - https://bepositive.cc/
+* Be Positive Advertising Agency - https://bepositive.az
 * SimilarSiteSearch - https://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/

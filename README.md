@@ -36,6 +36,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 
 # Websites
 
+* HUSEVN Media Downloader - https://husevndl.top
 * 10words - https://10words.io
 * AI Collection - https://www.thataicollection.com/
 * All My Faves - https://www.allmyfaves.com/

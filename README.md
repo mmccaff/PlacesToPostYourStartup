@@ -63,6 +63,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * eBool - https://www.ebool.com/submit
 * F6S - https://www.f6s.com/
+* FalcoScan - https://falcoscan.com/submit
 * G2 Crowd - https://www.g2crowd.com/products/new
 * Geek Wire - https://geekwire.com/startup-list/
 * Get App - https://getapp.com/

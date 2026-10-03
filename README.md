@@ -52,6 +52,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * AppsThunder - https://appsthunder.com/submit-your-app/
 * Appvita - https://www.appvita.com/
 * Arctic Startup - https://arcticstartup.com/
+* Aura++ - https://auraplusplus.com/
 * Awesome Indie - https://awesomeindie.com
 * Beta Bound - https://www.betabound.com/announce/
 * Beta Testing - https://betatesting.com/beta-testing
@@ -61,6 +62,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
+* EarlyHunt - https://earlyhunt.com/
 * eBool - https://www.ebool.com/submit
 * F6S - https://www.f6s.com/
 * G2 Crowd - https://www.g2crowd.com/products/new
@@ -70,12 +72,14 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Gust - https://www.gust.com
 * Inc 42 - https://inc42.com/startup-submission/
 * Indie Hackers - https://www.indiehackers.com/
+* IndieHunt - https://indiehunt.io/
 * Killer Startups - https://killerstartups.com/submit-startup/
 * Land-book - https://land-book.com/guidelines
 * Launched - https://launched.io/SubmitStartup
 * LaunchIgniter - https://launchigniter.com/submit
 * Launching Next - https://www.launchingnext.com/submit/
 * Loop - https://app.loopinput.com/
+* MakerHunt - https://makerhunt.io
 * MakeUseOf - https://www.makeuseof.com/about/
 * Micro SaaS Examples - https://www.microsaasexamples.com/
 * Netted - https://www.netted.net/contact-us/
@@ -88,6 +92,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * SaasRow - https://saasrow.com/
 * Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/
 * Show HN - https://news.ycombinator.com/showhn.html
+* SideHunt - https://sidehunt.io/
 * Side Projectors - https://www.sideprojectors.com
 * Simple Lister - https://simplelister.com/
 * SimilarSiteSearch - https://www.similarsitesearch.com/tips.html

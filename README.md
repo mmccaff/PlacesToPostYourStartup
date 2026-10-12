@@ -43,6 +43,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All Top Startups - https://alltopstartups.com/submit-startup/
 * Alternative To - https://alternativeto.net/
 * Alternative.me - https://alternative.me/
+* Altimateguide - https://altimateguide.com/request-inclusion
 * AngelList - https://angel.co/
 * App Rater - https://apprater.net/add/
 * Appoid - https://appiod.com/submit-app-for-review/

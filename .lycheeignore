@@ -21,9 +21,7 @@
 ^https://www\.launchingnext\.com/
 ^https://www\.slant\.co/
 ^https://www\.startupranking\.com/
-^https://www\.vator\.tv/
 ^https://www\.websitehunt\.co/
-^https://thetechmap\.com/
 ^https://www.producthunt\.com/
 ^https://www.saashub\.com/
 ^https://www.sideprojectors\.com/
@@ -36,4 +34,3 @@
 ^https://www\.allstartups\.info/
 # Random timeouts and errors
 ^https://alltopstartups\.com/
-^https://launched\.io/

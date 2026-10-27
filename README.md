@@ -43,14 +43,12 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All Top Startups - https://alltopstartups.com/submit-startup/
 * Alternative To - https://alternativeto.net/
 * Alternative.me - https://alternative.me/
-* AngelList - https://angel.co/
 * App Rater - https://apprater.net/add/
 * Appoid - https://appiod.com/submit-app-for-review/
 * appPicker - https://www.apppicker.com/
 * Apps Listo - https://appslisto.com/submit-your-app/
 * Apps Mamma - https://appsmamma.com/submit-your-app/
 * AppsThunder - https://appsthunder.com/submit-your-app/
-* Appvita - https://www.appvita.com/
 * Arctic Startup - https://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
 * Beta Bound - https://www.betabound.com/announce/
@@ -58,10 +56,10 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * BuiltInChicago - https://www.builtinchicago.org/send-us-tip
 * Capterra - https://www.capterra.com/vendors/sign-up
 * Collaborizm - https://www.collaborizm.com
-* CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * eBool - https://www.ebool.com/submit
+* Estartapero - https://estartapero.io/submit
 * F6S - https://www.f6s.com/
 * G2 Crowd - https://www.g2crowd.com/products/new
 * Geek Wire - https://geekwire.com/startup-list/
@@ -72,7 +70,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Indie Hackers - https://www.indiehackers.com/
 * Killer Startups - https://killerstartups.com/submit-startup/
 * Land-book - https://land-book.com/guidelines
-* Launched - https://launched.io/SubmitStartup
 * LaunchIgniter - https://launchigniter.com/submit
 * Launching Next - https://www.launchingnext.com/submit/
 * Loop - https://app.loopinput.com/
@@ -84,16 +81,15 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Postmake - https://postmake.io/submit
 * PreApps - https://www.preapps.com/
 * Product Hunt - https://www.producthunt.com/
+* Revleads (formerly CrozDesk) - https://vendor.revleads.com/user/signup
 * SaaSHub - https://www.saashub.com/
 * SaasRow - https://saasrow.com/
 * Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/
 * Show HN - https://news.ycombinator.com/showhn.html
 * Side Projectors - https://www.sideprojectors.com
-* Simple Lister - https://simplelister.com/
 * SimilarSiteSearch - https://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
-* Software Advice - https://softwareadvice-markets.questionpro.com/
 * Stack Share - https://stackshare.io/
 * Starter Story - https://starterstory.com/
 * Startup 88 - https://startup88.com/
@@ -108,15 +104,14 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Tracker - https://startuptracker.io/
 * StartupBlink - https://www.startupblink.com/
 * Startups Gallery - https://startups.gallery/
-* State of Tech - https://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape - https://www.tapscape.com/
-* Tech Map - https://thetechmap.com/
+* Tech Map - https://techmap.me/
 * Tech Pluto - https://www.techpluto.com/submit-a-startup/
 * Tiny Launch - https://www.tinylaunch.com
 * The Changelog - https://github.com/thechangelog/ping
-* Vator - https://www.vator.tv/
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
 * Website Hunt - https://www.websitehunt.co
+* Wellfound (formerly AngelList) - https://wellfound.com/
 * Ycombinator - https://news.ycombinator.com/
 
 [Back to Top](#places-to-post-your-startup)

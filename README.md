@@ -51,6 +51,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Apps Mamma - https://appsmamma.com/submit-your-app/
 * AppsThunder - https://appsthunder.com/submit-your-app/
 * Appvita - https://www.appvita.com/
+* AQX Logistics (US Freight Forwarding & Cross-Border Logistics Engine) - https://aqxlogistics.com
 * Arctic Startup - https://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
 * Beta Bound - https://www.betabound.com/announce/

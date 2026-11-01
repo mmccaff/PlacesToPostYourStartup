@@ -55,6 +55,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Awesome Indie - https://awesomeindie.com
 * Beta Bound - https://www.betabound.com/announce/
 * Beta Testing - https://betatesting.com/beta-testing
+* BestAIApp - https://bestaiapp.co/featured
 * BuiltInChicago - https://www.builtinchicago.org/send-us-tip
 * Capterra - https://www.capterra.com/vendors/sign-up
 * Collaborizm - https://www.collaborizm.com

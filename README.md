@@ -91,6 +91,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Side Projectors - https://www.sideprojectors.com
 * Simple Lister - https://simplelister.com/
 * SimilarSiteSearch - https://www.similarsitesearch.com/tips.html
+* Siteefy - https://siteefy.com/submit-tool?utm_source=placestopost
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
 * Software Advice - https://softwareadvice-markets.questionpro.com/

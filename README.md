@@ -55,6 +55,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Awesome Indie - https://awesomeindie.com
 * Beta Bound - https://www.betabound.com/announce/
 * Beta Testing - https://betatesting.com/beta-testing
+* Boilerplates Directory - https://boilerplates.directory/submit
 * BuiltInChicago - https://www.builtinchicago.org/send-us-tip
 * Capterra - https://www.capterra.com/vendors/sign-up
 * Collaborizm - https://www.collaborizm.com
@@ -84,6 +85,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Postmake - https://postmake.io/submit
 * PreApps - https://www.preapps.com/
 * Product Hunt - https://www.producthunt.com/
+* PWA Directory - https://pwa.directory/submit
 * SaaSHub - https://www.saashub.com/
 * SaasRow - https://saasrow.com/
 * Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/
@@ -116,6 +118,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * The Changelog - https://github.com/thechangelog/ping
 * Vator - https://www.vator.tv/
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
+* WebApps Directory - https://webapps.directory/submit
 * Website Hunt - https://www.websitehunt.co
 * Ycombinator - https://news.ycombinator.com/
 

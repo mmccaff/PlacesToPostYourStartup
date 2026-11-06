@@ -53,6 +53,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Appvita - https://www.appvita.com/
 * Arctic Startup - https://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
+* Awesome Tools - https://awesome.tools/submit
 * Beta Bound - https://www.betabound.com/announce/
 * Beta Testing - https://betatesting.com/beta-testing
 * BuiltInChicago - https://www.builtinchicago.org/send-us-tip

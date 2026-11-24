@@ -114,6 +114,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tech Pluto - https://www.techpluto.com/submit-a-startup/
 * Tiny Launch - https://www.tinylaunch.com
 * The Changelog - https://github.com/thechangelog/ping
+* The Useful Apps - https://theusefulmedia.com/apps/submit/
 * Vator - https://www.vator.tv/
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
 * Website Hunt - https://www.websitehunt.co
